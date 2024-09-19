@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-16
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Cartes|Torrelavega|Vivir en Cantabria|Visitar Cantabria|Turismo
-            sent true
         }
     }
     {
@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-09
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
+            sent true
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-01
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|2|Arredondo|Vivir en Cantabria|Visitar Cantabria|Cultura
             sent true
+            modDate 2024-09-01
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-23
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|3
             sent true
+            modDate 2024-08-23
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-09
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Dirección General Deporte|2|San Vicente de la Barquera|Valdáliga|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Ocio-Deporte
-            sent true
         }
     }
     {

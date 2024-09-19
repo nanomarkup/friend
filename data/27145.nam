@@ -1,5 +1,22 @@
 [
     {
+        Title El Gobierno de Cantabria aprueba 6,7 millones en ayudas para que los autónomos inicien sus negocios
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/el-gobierno-de-cantabria-aprueba-6-7-millones-en-ayudas-para-que-los-aut%C3%B3nomos-inicien-sus-negocios
+        Links [
+            https://www.cantabria.es/web/comunicados/w/el-gobierno-de-cantabria-aprueba-6-7-millones-en-ayudas-para-que-los-aut%C3%B3nomos-inicien-sus-negocios
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo|Servicio Cántabro de Empleo|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Economía y Comercio|Trabajo-Empleo
+            sent true
+        }
+    }
+    {
         Title Lifthium Energy consigue 21 millones de euros del PERTE VEC para la planta de baterías de litio de Torrelavega
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Trabajar en Cantabria|I+D+i|Industria
-            sent true
         }
     }
     {
@@ -79,9 +96,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-16
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|1|Trabajar en Cantabria|Industria|Trabajo-Empleo|Empresas
             sent true
+            modDate 2024-09-16
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-10
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Trabajo-Empleo
             sent true
+            modDate 2024-09-10
         }
     }
     {
@@ -164,9 +181,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-10
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|I+D+i|Industria
+            sent true
         }
     }
     {
@@ -181,9 +198,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-09
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
             sent true
-            modDate 2024-09-09
         }
     }
     {
@@ -249,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-03
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|Dirección General Trabajo Economía Social y Empleo Autónomo|Instituciones gobierno|2|Trabajar en Cantabria|Trabajo-Empleo|SubTrabajo-Empleo
+            sent true
         }
     }
     {
@@ -266,9 +283,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|2|Trabajar en Cantabria|I+D+i
             sent true
-            modDate 2024-09-02
         }
     }
     {
@@ -283,9 +300,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-30
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
+            modDate 2024-08-30
         }
     }
     {
@@ -300,9 +317,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-27
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Industria|Empresas
             sent true
-            modDate 2024-08-27
         }
     }
     {
@@ -317,26 +334,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-26
             categorias Consejería de Industria, Empleo, Innovación y Comercio|3|Trabajar en Cantabria|Industria
             sent true
-        }
-    }
-    {
-        Title SODERCAN apoya un proyecto de I+D de Cifra Educación para aplicar la IA al control de asistencia en colegios
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/sodercan-apoya-un-proyecto-de-i-d-de-cifra-educaci%C3%B3n-para-aplicar-la-ia-al-control-de-asistencia-en-colegios
-        Links [
-            https://www.cantabria.es/web/comunicados/w/sodercan-apoya-un-proyecto-de-i-d-de-cifra-educaci%C3%B3n-para-aplicar-la-ia-al-control-de-asistencia-en-colegios
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|3|Vivir en Cantabria|Estudiar en Cantabria|Educación|I+D+i|Industria
-            sent true
-            modDate 2024-08-20
+            modDate 2024-08-26
         }
     }
 ]

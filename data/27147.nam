@@ -1,5 +1,22 @@
 [
     {
+        Title Fomento convoca las ayudas a la digitalización de autónomos y pymes de transporte de mercancías
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/fomento-convoca-las-ayudas-a-la-digitalizaci%C3%B3n-de-aut%C3%B3nomos-y-pymes-de-transporte-de-mercanc%C3%ADas
+        Links [
+            https://www.cantabria.es/web/comunicados/w/fomento-convoca-las-ayudas-a-la-digitalizaci%C3%B3n-de-aut%C3%B3nomos-y-pymes-de-transporte-de-mercanc%C3%ADas
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|Dirección General Transportes y Comunicaciones|Instituciones gobierno|3|Trabajar en Cantabria|Infraestructuras y Transporte|Empresas
+            sent true
+        }
+    }
+    {
         Title El Gobierno autoriza ayudas por importe de más de 2,5 millones de euros para la mejora y construcción de infraestructuras agrarias
         Description 
         Content 
@@ -113,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-15
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|InverCantabria
+            sent true
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-14
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Infraestructuras y Transporte|InverCantabria
             sent true
-            modDate 2024-09-14
         }
     }
     {
@@ -181,9 +198,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-13
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|Instituciones gobierno|D.G. de Aguas y Puertos|2|Ampuero|Infraestructuras y Transporte
+            sent true
         }
     }
     {
@@ -198,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-12
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones|2|Santander|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Economía y Comercio|Industria|Infraestructuras y Transporte|Empresas
             sent true
-            modDate 2024-09-12
         }
     }
     {
@@ -232,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Argoños|Arnuero|Escalante|Piélagos|Vivir en Cantabria|Trabajar en Cantabria|Infraestructuras y Transporte|Justicia
             sent true
             modDate 2024-09-09
+            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Argoños|Arnuero|Escalante|Piélagos|Vivir en Cantabria|Trabajar en Cantabria|Infraestructuras y Transporte|Justicia
         }
     }
     {
@@ -283,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-05
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|3
-            sent true
         }
     }
     {
@@ -317,26 +334,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-03
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|1|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Arnuero|Vivir en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Educación|Infraestructuras y Transporte|Ocio-Deporte|Turismo
-            sent true
-        }
-    }
-    {
-        Title Media defiende la rehabilitación como "respuesta a la necesidad de preservar el patrimonio y solución para generar menor impacto en el territorio"
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/media-defiende-la-rehabilitaci%C3%B3n-como-respuesta-a-la-necesidad-de-preservar-el-patrimonio-y-soluci%C3%B3n-para-generar-menor-impacto-en-el-territorio-
-        Links [
-            https://www.cantabria.es/web/comunicados/w/media-defiende-la-rehabilitaci%C3%B3n-como-respuesta-a-la-necesidad-de-preservar-el-patrimonio-y-soluci%C3%B3n-para-generar-menor-impacto-en-el-territorio-
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-09-02
-            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2
-            sent true
         }
     }
 ]
