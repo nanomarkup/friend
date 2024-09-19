@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-19
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Trabajar en Cantabria|I+D+i|Industria
+            sent true
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-16
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|1|Trabajar en Cantabria|Industria|Trabajo-Empleo|Empresas
             sent true
-            modDate 2024-09-16
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-11
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|I+D+i|Industria
             sent true
+            modDate 2024-09-11
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-10
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Trabajo-Empleo
             sent true
-            modDate 2024-09-10
         }
     }
     {
@@ -181,9 +181,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-10
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|I+D+i|Industria
             sent true
+            modDate 2024-09-10
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|1
             sent true
+            modDate 2024-09-04
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-30
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
-            modDate 2024-08-30
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-26
             categorias Consejería de Industria, Empleo, Innovación y Comercio|3|Trabajar en Cantabria|Industria
             sent true
-            modDate 2024-08-26
         }
     }
 ]

@@ -11,9 +11,9 @@
         Published 
         GUID 
         Custom {
+            categorias Gobierno|Dirección General de Inclusión Social Familias e Igualdad|Instituto Cántabro de Servicios Sociales|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3|Santander|Vivir en Cantabria|Salud y Bienestar
             sent true
             modDate 2024-09-19
-            categorias Gobierno|Dirección General de Inclusión Social Familias e Igualdad|Instituto Cántabro de Servicios Sociales|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3|Santander|Vivir en Cantabria|Salud y Bienestar
         }
     }
     {
@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-19
             categorias Dirección General de Inclusión Social Familias e Igualdad|Instituto Cántabro de Servicios Sociales|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Salud y Bienestar|Juventud
             sent true
-            modDate 2024-09-19
         }
     }
     {
@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
-            sent true
         }
     }
     {
@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-16
             categorias Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Castro Urdiales
             sent true
-            modDate 2024-09-16
         }
     }
     {
@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Inclusión Social, Juventud, Familias e Igualdad|Santander|Vivir en Cantabria|Trabajar en Cantabria|Salud y Bienestar
             sent true
             modDate 2024-09-13
-            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Inclusión Social, Juventud, Familias e Igualdad|Santander|Vivir en Cantabria|Trabajar en Cantabria|Salud y Bienestar
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-08
             categorias Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3
+            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-04
             categorias Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3
+            sent true
         }
     }
     {
@@ -181,9 +181,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3|Economía y Comercio|SubEconomía|Educación|SubEducación|Juventud|SubJuventud
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -198,9 +198,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-31
             categorias Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|3|Campoo de Enmedio|Vivir en Cantabria|Visitar Cantabria
             sent true
-            modDate 2024-08-31
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
-            categorias Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2
             sent true
             modDate 2024-08-29
+            categorias Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-27
             categorias Gobierno|Dirección General Juventud Cooperación al Desarrollo y Voluntariado|Comunicados.CantabriaCoopera|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Inclusión Social, Juventud, Familias e Igualdad|Vivir en Cantabria|Estudiar en Cantabria|Educación|Juventud
             sent true
-            modDate 2024-08-27
         }
     }
     {
@@ -266,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-27
             categorias Dirección General de Inclusión Social Familias e Igualdad|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
+            modDate 2024-08-27
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-21
             categorias Dirección General de Inclusión Social Familias e Igualdad|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
-            sent true
         }
     }
     {

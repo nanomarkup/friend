@@ -11,9 +11,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-19
             categorias Consejería de Salud|Gobierno|Instituciones gobierno|1|Salud y Bienestar|SubSalud
             sent true
-            modDate 2024-09-19
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-12
             categorias Consejería de Salud|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Educación|Salud y Bienestar
             sent true
-            modDate 2024-09-12
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-02
             categorias Consejería de Salud|Gobierno|Secretaría General de Salud|Instituciones gobierno|2|Vivir en Cantabria|Salud y Bienestar
             sent true
+            modDate 2024-09-02
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-20
             categorias Consejería de Salud|Gobierno|Instituciones gobierno|2|Vivir en Cantabria|Salud y Bienestar
-            sent true
         }
     }
     {

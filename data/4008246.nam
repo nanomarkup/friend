@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-09
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente
+            sent true
         }
     }
     {
@@ -181,9 +181,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-08
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Direccion de la Agencia Cantabra de Administración Tributaria
             sent true
+            modDate 2024-08-08
         }
     }
     {
@@ -266,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
+            sent true
         }
     }
     {
@@ -385,9 +385,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-07-29
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Deporte
             sent true
+            modDate 2024-07-29
         }
     }
     {
@@ -419,9 +419,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-19
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones
             sent true
-            modDate 2024-07-19
         }
     }
     {
@@ -453,9 +453,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-10
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
-            sent true
         }
     }
     {
@@ -470,9 +470,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-10
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
             sent true
-            modDate 2024-07-10
         }
     }
     {
@@ -487,9 +487,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-10
             categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Instituto Cántabro de Servicios Sociales
-            sent true
         }
     }
     {
@@ -504,9 +504,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-10
             categorias Consejería de Salud|Dirección General de Farmacia Humanización y Coordinación Sociosanitaria
-            sent true
         }
     }
     {
@@ -521,9 +521,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-10
             categorias Consejería de Salud|Dirección General de Farmacia Humanización y Coordinación Sociosanitaria
-            sent true
         }
     }
     {
@@ -555,9 +555,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-10
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural
+            sent true
         }
     }
     {
@@ -657,9 +657,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-04
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
+            sent true
         }
     }
     {
@@ -708,9 +708,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
             sent true
-            modDate 2024-07-02
         }
     }
     {
@@ -810,9 +810,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-06-25
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Comercio y Consumo
             sent true
-            modDate 2024-06-25
         }
     }
     {
@@ -827,9 +827,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-06-24
             categorias Gobierno
             sent true
+            modDate 2024-06-24
         }
     }
     {
@@ -844,9 +844,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-06-24
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Director General de Administración Local, Acción Exterior y Casas de Cantabria
+            sent true
         }
     }
 ]
