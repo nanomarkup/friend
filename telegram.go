@@ -1,10 +1,10 @@
 package main
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
 	"net/http"
-	"net/url"
-	"strconv"
 	"strings"
 
 	"github.com/mmcdole/gofeed"
@@ -16,23 +16,27 @@ func (v *telegram) send(threadId int, item *gofeed.Item) error {
 		return err
 	}
 	// send
-	params := url.Values{}
-	params.Add("chat_id", v.chatId)
-	if threadId > 0 {
-		params.Add("message_thread_id", strconv.Itoa(threadId))
+	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", v.token)
+	payload := map[string]interface{}{
+		"chat_id":           v.chatId,
+		"message_thread_id": threadId,
+		"parse_mode":        "HTML",
+		"text":              mes,
 	}
-	params.Add("parse_mode", "HTML")
-	params.Add("text", mes)
-	resp, err := http.Get(fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage?%s", v.token, params.Encode()))
+	data, err := json.Marshal(payload)
+	if err != nil {
+		return err
+	}
+	resp, err := http.Post(url, "application/json", bytes.NewBuffer(data))
 	if err != nil {
 		return err
 	}
 	defer resp.Body.Close()
 
-	if resp.StatusCode == 200 {
+	if resp.StatusCode == http.StatusOK {
 		return nil
 	} else {
-		return fmt.Errorf("Wrong status code: %d", resp.StatusCode)
+		return fmt.Errorf("Failed to send message. Status code: %d\n", resp.StatusCode)
 	}
 }
 
