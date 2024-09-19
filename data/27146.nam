@@ -11,9 +11,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
             sent true
             modDate 2024-09-19
-            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
         }
     }
     {
@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-19
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Subdirección General Turismo|Secretaría General Cultura Turismo y Deporte|Instituciones gobierno|2|Turismo|SubTurismo
             sent true
-            modDate 2024-09-19
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-13
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Turismo
-            sent true
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-13
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|3|Visitar Cantabria|Cultura
             sent true
-            modDate 2024-09-13
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-02
             categorias Consejería de Cultura, Turismo y Deporte|2|Vivir en Cantabria|Ocio-Deporte
-            sent true
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-01
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Corrales de Buelna (Los)|Vivir en Cantabria|Visitar Cantabria|Turismo
+            sent true
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-01
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Ruente|Vivir en Cantabria|Visitar Cantabria|Turismo
-            sent true
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-31
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Deporte|Instituciones gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
-            modDate 2024-08-31
         }
     }
     {

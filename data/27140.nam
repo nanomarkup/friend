@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|1|Santander|Agricultura y Ganadería|Economía y Comercio|Naturaleza y Medio Ambiente
             sent true
             modDate 2024-09-18
-            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|1|Santander|Agricultura y Ganadería|Economía y Comercio|Naturaleza y Medio Ambiente
         }
     }
     {
@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-18
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Pesca y Alimentación|ODECA|2|Santa María de Cayón|Agricultura y Ganadería|Economía y Comercio|Empresas
-            sent true
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Cultura, Turismo y Deporte|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|2|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Cultura
-            sent true
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-16
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Ganadería|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Agricultura y Ganadería
             sent true
+            modDate 2024-09-16
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-13
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Pesca y Alimentación|ODECA|3|Valderredible|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Agricultura y Ganadería
-            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-08
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Dirección General Pesca y Alimentación|Instituciones gobierno|2|Arnuero|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Turismo|Empresas
-            sent true
         }
     }
     {
@@ -232,9 +232,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-05
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Dirección General Pesca y Alimentación|Instituciones gobierno|ODECA|3|Arnuero|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|SubAgricultura
             sent true
-            modDate 2024-09-05
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-26
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|1|Desarrollo Rural, Ganadería, Pesca y Alimentación|Alfoz de Lloredo|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Trabajo-Empleo|Turismo
+            sent true
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-25
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|2|Colindres|Vivir en Cantabria|Trabajar en Cantabria|Pesca|Turismo
             sent true
-            modDate 2024-08-25
         }
     }
 ]

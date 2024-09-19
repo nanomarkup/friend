@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
-            sent true
         }
     }
     {
@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-18
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|3|Santander|Estudiar en Cantabria|Educación
             sent true
+            modDate 2024-09-18
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-16
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Vivir en Cantabria|Estudiar en Cantabria|Educación
-            sent true
         }
     }
     {
@@ -198,9 +198,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|1|Vivir en Cantabria|Estudiar en Cantabria
             sent true
             modDate 2024-09-09
+            categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|1|Vivir en Cantabria|Estudiar en Cantabria
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-05
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|1|Trabajar en Cantabria|Estudiar en Cantabria|Educación
             sent true
-            modDate 2024-09-05
         }
     }
     {
@@ -232,9 +232,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|2|Arredondo|Educación|SubEducación
             sent true
             modDate 2024-09-04
+            categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|2|Arredondo|Educación|SubEducación
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-02
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|1|Educación|SubEducación
-            sent true
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-28
             categorias Consejería de Educación, Formación Profesional y Universidades|2|Laredo|Educación
             sent true
-            modDate 2024-08-28
         }
     }
     {

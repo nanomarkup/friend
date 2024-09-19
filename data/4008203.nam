@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-18
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Educación
-            sent true
         }
     }
     {
@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-18
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo|Trabajo-Empleo
             sent true
+            modDate 2024-09-18
         }
     }
     {
@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-16
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Instituto Cántabro de Seguridad y Salud en el trabajo
-            sent true
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-13
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Educación
+            sent true
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-13
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural|Agricultura y Ganadería
-            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-11
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural|Agricultura y Ganadería
             sent true
+            modDate 2024-09-11
         }
     }
     {
@@ -232,9 +232,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-05
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General de Montes y Biodiversidad
             sent true
+            modDate 2024-09-05
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Pesca y Alimentación|Pesca
             sent true
             modDate 2024-09-04
-            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Pesca y Alimentación|Pesca
         }
     }
     {
@@ -419,9 +419,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-23
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Ganadería|Agricultura y Ganadería
             sent true
-            modDate 2024-08-23
         }
     }
     {
@@ -470,9 +470,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-23
             categorias Dirección General Transportes y Comunicaciones|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Infraestructuras y Transporte
+            sent true
         }
     }
     {
@@ -487,9 +487,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-23
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones|Infraestructuras y Transporte
             sent true
+            modDate 2024-08-23
         }
     }
     {
@@ -521,9 +521,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Turismo
             sent true
             modDate 2024-08-20
+            categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Turismo
         }
     }
     {
@@ -589,9 +589,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-09
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas|Industria
             sent true
+            modDate 2024-08-09
         }
     }
     {
@@ -606,9 +606,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-09
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas|Industria
             sent true
+            modDate 2024-08-09
         }
     }
     {
@@ -640,9 +640,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-08
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Director General de Administración Local, Acción Exterior y Casas de Cantabria
             sent true
-            modDate 2024-08-08
         }
     }
     {
@@ -725,9 +725,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-24
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Pesca y Alimentación|Pesca
+            sent true
         }
     }
     {

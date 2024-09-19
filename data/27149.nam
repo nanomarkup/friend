@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-12
             categorias Consejería de Salud|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Educación|Salud y Bienestar
             sent true
+            modDate 2024-09-12
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-12
             categorias Consejería de Salud|Dirección Gerencia del Servicio Cantabro de Salud|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Salud y Bienestar|SubSalud
+            sent true
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-03
             categorias Consejería de Salud|Gobierno|2
-            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-02
             categorias Consejería de Salud|Gobierno|Secretaría General de Salud|Instituciones gobierno|2|Vivir en Cantabria|Salud y Bienestar
             sent true
-            modDate 2024-09-02
         }
     }
     {
@@ -198,9 +198,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-29
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Cabuérniga|Mazcuerras|Camaleño|Vega de Liébana|Molledo|Cieza|Tojos (Los)|Corrales de Buelna (Los)|Castro Urdiales|Cartes|Udías|Corvera de Toranzo|Vega de Pas|Villacarriedo|Santiurde de Toranzo|Miera|Val de San Vicente|San Vicente de la Barquera|Herrerías|Vivir en Cantabria|Agricultura y Ganadería|Educación|Infraestructuras y Transporte|Salud y Bienestar|Juventud
             sent true
-            modDate 2024-08-29
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-28
             categorias Consejería de Salud|Dirección Gerencia del Servicio Cantabro de Salud|Subdirección General de Asistencia Sanitaria|Instituciones gobierno|3|Salud y Bienestar|SubSalud
-            sent true
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-25
             categorias Consejería de Salud|Gobierno|2|Vivir en Cantabria|Visitar Cantabria|Salud y Bienestar
             sent true
+            modDate 2024-08-25
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-20
             categorias Consejería de Salud|Gobierno|Instituciones gobierno|2|Vivir en Cantabria|Salud y Bienestar
+            sent true
         }
     }
     {
