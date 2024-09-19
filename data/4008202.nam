@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-31
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones|Trabajo-Empleo
-            sent true
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-07-15
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|ODECA
             sent true
+            modDate 2024-07-15
         }
     }
     {
@@ -198,9 +198,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-06-20
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Comercio|Dirección General de Comercio y Consumo|Economía y Comercio
             sent true
-            modDate 2024-06-20
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-06-19
             categorias Dirección General Formación Profesional y Educación Permanente|Consejería de Educación, Formación Profesional y Universidades|Trabajo-Empleo
             sent true
+            modDate 2024-06-19
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-06-03
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Comercio|Dirección General de Comercio y Consumo|Economía y Comercio
-            sent true
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-05-03
             categorias Dirección General Juventud Cooperación al Desarrollo y Voluntariado|Consejería de Inclusión Social, Juventud, Familias e Igualdad|Trabajo-Empleo|Juventud
-            sent true
         }
     }
     {
@@ -385,9 +385,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural|Trabajo-Empleo|Juventud
             sent true
             modDate 2024-02-01
-            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural|Trabajo-Empleo|Juventud
         }
     }
     {
@@ -402,9 +402,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-01-04
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural|Trabajo-Empleo|Juventud
             sent true
-            modDate 2024-01-04
         }
     }
     {
@@ -453,9 +453,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2023-11-08
             categorias Consejería de Salud|Secretaría General de Salud|Trabajo-Empleo
+            sent true
         }
     }
     {
@@ -674,9 +674,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2023-02-08
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Comercio y Consumo|Trabajo-Empleo
             sent true
-            modDate 2023-02-08
         }
     }
     {
@@ -691,9 +691,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2022-12-29
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Dirección General de Seguridad y Protección Ciudadana|Trabajo-Empleo
+            sent true
         }
     }
     {
@@ -708,9 +708,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2022-12-15
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Dirección General de Fondos Europeos|Trabajo-Empleo|Juventud
             sent true
-            modDate 2022-12-15
         }
     }
     {
@@ -759,9 +759,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2022-11-30
             categorias Dirección General de Inclusión Social Familias e Igualdad|Trabajo-Empleo|Juventud|Consejería de Inclusión Social, Juventud, Familias e Igualdad
             sent true
+            modDate 2022-11-30
         }
     }
     {
@@ -810,9 +810,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2022-11-15
             categorias Dirección General Trabajo Economía Social y Empleo Autónomo|Trabajo-Empleo|Consejería de Industria, Empleo, Innovación y Comercio
+            sent true
         }
     }
     {
@@ -844,9 +844,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2022-10-03
             categorias Dirección General Ganadería|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Trabajo-Empleo
-            sent true
         }
     }
 ]

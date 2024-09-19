@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-16
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Cartes|Torrelavega|Vivir en Cantabria|Visitar Cantabria|Turismo
+            sent true
         }
     }
     {
@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-13
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|2|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Inclusión Social, Juventud, Familias e Igualdad|Santander|Vivir en Cantabria|Trabajar en Cantabria|Salud y Bienestar
+            sent true
         }
     }
     {
@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
             sent true
             modDate 2024-09-09
+            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|ICANE|1|Santander|Economía y Comercio
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-01
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|I+D+i|Empresas
+            sent true
         }
     }
     {
