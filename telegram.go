@@ -5,6 +5,7 @@ import (
 	"net/http"
 	"net/url"
 	"strconv"
+	"strings"
 
 	"github.com/mmcdole/gofeed"
 )
@@ -50,6 +51,10 @@ func (v *telegram) getMessage(title string, cats string, link string) (string, e
 	}
 	mes := title + "</a>\n\n"
 	if cats != "" {
+		items := strings.Split(cats, "|")
+		if len(items) > 0 {
+			cats = items[0]
+		}
 		mes += fmt.Sprintf("Categorias: %s\n\n", cats)
 	}
 	mes, err = translate(mes, "es", "uk")
