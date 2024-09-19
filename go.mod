@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/mmcdole/gofeed v1.3.0
-	github.com/nanomarkup/nanomarkup.go v0.0.0-20240916102506-643d3e1eb5a2
+	github.com/nanomarkup/nanomarkup.go v0.0.0-20240918235201-3823fbc65c3e
 )
 
 require (

@@ -1,15 +1,12 @@
-# fly.toml app configuration file generated for friend-proud-fog-396 on 2024-09-18T19:21:32-04:00
+# fly.toml app configuration file generated for friend on 2024-09-18T20:01:04-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'friend-proud-fog-396'
+app = 'friend'
 primary_region = 'yyz'
 
 [build]
-
-[env]
-  PORT = '8080'
 
 [http_service]
   internal_port = 8080
