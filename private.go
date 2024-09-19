@@ -102,7 +102,7 @@ func main() {
 }
 
 func readFeeds(feeds []*feed) {
-	sender := telegram{"7211500498:AAHDAFhG0CxRxVzYzb9oiOX5y0sc3miyVB8", "-4573799901"}
+	sender := telegram{"7211500498:AAHDAFhG0CxRxVzYzb9oiOX5y0sc3miyVB8", "-1002415103094"} //-4573799901
 	for _, f := range feeds {
 		r := reader{f}
 		items, err := r.read()
