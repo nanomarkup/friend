@@ -13,8 +13,9 @@ import (
 )
 
 type feed struct {
-	url      string
-	filePath string
+	url             string
+	filePath        string
+	messageThreadId int
 }
 
 type reader struct {
@@ -52,21 +53,21 @@ func main() {
 	// feeds = append(feeds, &feed{"https://www.cantabria.es/o/BOC/feed/7479572", wd + "/data/7479572.nam"})
 	// feeds = append(feeds, &feed{"https://www.cantabria.es/o/BOC/feed/6802303", wd + "/data/6802303.nam"})
 	// feeds = append(feeds, &feed{"https://www.cantabria.es/o/BOC/feed/7293890", wd + "/data/7293890.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27148/size20", wd + "/data/27148.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27147/size20", wd + "/data/27147.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27141/size20", wd + "/data/27141.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27139/size20", wd + "/data/27139.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27146/size20", wd + "/data/27146.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27140/size20", wd + "/data/27140.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27145/size20", wd + "/data/27145.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27149/size20", wd + "/data/27149.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/7720252/size20", wd + "/data/7720252.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008203/size50", wd + "/data/4008203.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008202/size50", wd + "/data/4008202.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008221/size50", wd + "/data/4008221.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008246/size50", wd + "/data/4008246.nam"})
-	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/size50", wd + "/data/4008216.nam"})
-	feeds = append(feeds, &feed{"https://empleopublico.cantabria.es/o/GOBIERNO/feed/group16475/inscom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_6Cx0YFAD8ZVK/size50", wd + "/data/6Cx0YFAD8ZVK.nam"})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27148/size20", wd + "/data/27148.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27147/size20", wd + "/data/27147.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27141/size20", wd + "/data/27141.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27139/size20", wd + "/data/27139.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27146/size20", wd + "/data/27146.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27140/size20", wd + "/data/27140.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27145/size20", wd + "/data/27145.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27149/size20", wd + "/data/27149.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/7720252/size20", wd + "/data/7720252.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008203/size50", wd + "/data/4008203.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008202/size50", wd + "/data/4008202.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008221/size50", wd + "/data/4008221.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008246/size50", wd + "/data/4008246.nam", 4})
+	feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/size50", wd + "/data/4008216.nam", 4})
+	feeds = append(feeds, &feed{"https://empleopublico.cantabria.es/o/GOBIERNO/feed/group16475/inscom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_6Cx0YFAD8ZVK/size50", wd + "/data/6Cx0YFAD8ZVK.nam", 4})
 
 	spain, err := time.LoadLocation("Europe/Madrid")
 	if err != nil {
@@ -109,7 +110,7 @@ func readFeeds(feeds []*feed) {
 		if err != nil {
 			fmt.Println(err)
 		}
-		err = sender.send(items)
+		err = sender.send(f.messageThreadId, items)
 		if err != nil {
 			fmt.Println(err)
 		}

@@ -4,11 +4,12 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
+	"strconv"
 
 	"github.com/mmcdole/gofeed"
 )
 
-func (v *telegram) send(items []*gofeed.Item) error {
+func (v *telegram) send(threadId int, items []*gofeed.Item) error {
 	mes := ""
 	var err error
 	for _, it := range items {
@@ -24,6 +25,9 @@ func (v *telegram) send(items []*gofeed.Item) error {
 		// send
 		params := url.Values{}
 		params.Add("chat_id", v.chatId)
+		if threadId > 0 {
+			params.Add("message_thread_id", strconv.Itoa(threadId))
+		}
 		params.Add("parse_mode", "HTML")
 		params.Add("text", mes)
 		resp, err := http.Get(fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage?%s", v.token, params.Encode()))
