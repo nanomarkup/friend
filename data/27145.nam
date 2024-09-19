@@ -1,5 +1,22 @@
 [
     {
+        Title Lifthium Energy consigue 21 millones de euros del PERTE VEC para la planta de baterías de litio de Torrelavega
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/lifthium-energy-consigue-21-millones-de-euros-del-perte-vec-para-la-planta-de-bater%C3%ADas-de-litio-de-torrelavega
+        Links [
+            https://www.cantabria.es/web/comunicados/w/lifthium-energy-consigue-21-millones-de-euros-del-perte-vec-para-la-planta-de-bater%C3%ADas-de-litio-de-torrelavega
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            sent true
+            modDate 2024-09-19
+            categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Trabajar en Cantabria|I+D+i|Industria
+        }
+    }
+    {
         Title Cantabria exige que el Gobierno de España "cumpla con la palabra dada y el compromiso adquirido" con la intermodal de La Pasiega
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-18
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Instituciones gobierno|1|Industria, Empleo, Innovación y Comercio|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Economía y Comercio|I+D+i|Industria|Infraestructuras y Transporte|Trabajo-Empleo|Empresas
             sent true
-            modDate 2024-09-18
         }
     }
     {
@@ -28,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-18
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|Servicio Cántabro de Empleo|Instituciones gobierno|NextGeneration|2|Trabajar en Cantabria|Estudiar en Cantabria|Trabajo-Empleo|Empresas
             sent true
-            modDate 2024-09-18
         }
     }
     {
@@ -45,9 +62,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-18
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Pesca y Alimentación|ODECA|2|Santa María de Cayón|Agricultura y Ganadería|Economía y Comercio|Empresas
             sent true
-            modDate 2024-09-18
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-10
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Trabajo-Empleo
-            sent true
         }
     }
     {
@@ -300,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-26
             categorias Consejería de Industria, Empleo, Innovación y Comercio|3|Trabajar en Cantabria|Industria
+            sent true
         }
     }
     {
@@ -319,23 +336,6 @@
         Custom {
             modDate 2024-08-20
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|3|Vivir en Cantabria|Estudiar en Cantabria|Educación|I+D+i|Industria
-            sent true
-        }
-    }
-    {
-        Title Casi 120 empresas optan a las ayudas de SODERCAN para planes de promoción comercial, dotadas con 900.000 euros
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/casi-120-empresas-optan-a-las-ayudas-de-sodercan-para-planes-de-promoci%C3%B3n-comercial-dotadas-con-900.000-euros
-        Links [
-            https://www.cantabria.es/web/comunicados/w/casi-120-empresas-optan-a-las-ayudas-de-sodercan-para-planes-de-promoci%C3%B3n-comercial-dotadas-con-900.000-euros
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-08-19
-            categorias Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|I+D+i|Industria|Trabajo-Empleo|Empresas
             sent true
         }
     }

@@ -1,5 +1,22 @@
 [
     {
+        Title Ayudas a la digitalización de empresas de transporte.
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/atencion-a-la-ciudadania/w/ayudas-a-la-digitalizaci%C3%B3n-de-empresas-de-transporte.
+        Links [
+            https://www.cantabria.es/web/atencion-a-la-ciudadania/w/ayudas-a-la-digitalizaci%C3%B3n-de-empresas-de-transporte.
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones
+            sent true
+        }
+    }
+    {
         Title Programa Jóvenes con Talento 2024 destinadas a las entidades del sector público institucional de la Comunidad Autónoma de Cantabria y a las
         Description 
         Content 
@@ -28,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación
             sent true
-            modDate 2024-09-17
         }
     }
     {
@@ -45,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-17
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones
             sent true
+            modDate 2024-09-17
         }
     }
     {
@@ -113,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-22
             categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Instituto Cántabro de Servicios Sociales
-            sent true
         }
     }
     {
@@ -147,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-08
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Dirección General de Simplificación Administrativa Transparencia y Participación Ciudadana
+            sent true
         }
     }
     {
@@ -164,9 +181,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Direccion de la Agencia Cantabra de Administración Tributaria
             sent true
             modDate 2024-08-08
-            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Direccion de la Agencia Cantabra de Administración Tributaria
         }
     }
     {
@@ -198,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-07
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones
             sent true
-            modDate 2024-08-07
         }
     }
     {
@@ -232,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-02
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural
             sent true
+            modDate 2024-08-02
         }
     }
     {
@@ -249,9 +266,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
             sent true
-            modDate 2024-08-02
         }
     }
     {
@@ -317,9 +334,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo
             sent true
+            modDate 2024-08-02
         }
     }
     {
@@ -334,9 +351,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo
-            sent true
         }
     }
     {
@@ -368,9 +385,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-29
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Deporte
-            sent true
         }
     }
     {
@@ -419,9 +436,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-10
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
+            sent true
         }
     }
     {
@@ -470,9 +487,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-10
             categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Instituto Cántabro de Servicios Sociales
             sent true
-            modDate 2024-07-10
         }
     }
     {
@@ -538,9 +555,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-07-10
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural
             sent true
+            modDate 2024-07-10
         }
     }
     {
@@ -657,9 +674,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-04
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo
-            sent true
         }
     }
     {
@@ -691,9 +708,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
-            sent true
         }
     }
     {
@@ -725,9 +742,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-07-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
             sent true
+            modDate 2024-07-02
         }
     }
     {
@@ -742,9 +759,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-06-26
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General de Montes y Biodiversidad
             sent true
-            modDate 2024-06-26
         }
     }
     {
@@ -759,9 +776,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-06-26
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo
+            sent true
         }
     }
     {
@@ -793,9 +810,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-06-25
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Comercio y Consumo
             sent true
-            modDate 2024-06-25
         }
     }
     {
@@ -827,25 +844,8 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-06-24
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Director General de Administración Local, Acción Exterior y Casas de Cantabria
-        }
-    }
-    {
-        Title Subvenciones para la promoción de la Vida Autónoma.
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/atencion-a-la-ciudadania/w/subvenciones-para-la-promoci%C3%B3n-de-la-vida-aut%C3%B3noma.
-        Links [
-            https://www.cantabria.es/web/atencion-a-la-ciudadania/w/subvenciones-para-la-promoci%C3%B3n-de-la-vida-aut%C3%B3noma.
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-06-24
-            categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Instituto Cántabro de Servicios Sociales
             sent true
         }
     }

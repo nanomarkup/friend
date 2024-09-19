@@ -11,9 +11,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-17
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General de Calidad y Equidad educativa y Ordenación Académica|Educación
-            sent true
         }
     }
     {
@@ -79,9 +79,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-05
             categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Dirección General Juventud Cooperación al Desarrollo y Voluntariado
             sent true
-            modDate 2024-09-05
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-23
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Deporte|Ocio-Deporte
             sent true
-            modDate 2024-08-23
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-01
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General de Cultura y Patrimonio Histórico|Cultura
             sent true
-            modDate 2024-08-01
         }
     }
     {
@@ -232,9 +232,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-01
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General de Cultura y Patrimonio Histórico|Cultura
-            sent true
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-06-19
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Educación
             sent true
+            modDate 2024-06-19
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-05-03
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Dirección General de Seguridad y Protección Ciudadana|Juventud
+            sent true
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-05-02
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Centro de Estudios de la Administracion Publica Regional de Cantabria
-            sent true
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-05-02
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Dirección General de Seguridad y Protección Ciudadana|Educación
-            sent true
         }
     }
     {
@@ -453,9 +453,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2023-11-07
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General de Calidad y Equidad educativa y Ordenación Académica|Educación
             sent true
-            modDate 2023-11-07
         }
     }
     {
@@ -487,9 +487,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2023-11-03
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Secretaría General Presidencia Justicia Seguridad y Simplificación Administrativa
+            sent true
         }
     }
     {
@@ -555,9 +555,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2023-09-26
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Educación
             sent true
+            modDate 2023-09-26
         }
     }
     {
@@ -589,9 +589,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2023-09-21
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Dirección General de Fondos Europeos
+            sent true
         }
     }
     {
@@ -708,9 +708,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2022-12-28
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa
             sent true
+            modDate 2022-12-28
         }
     }
     {
@@ -759,9 +759,9 @@
         Published 
         GUID 
         Custom {
+            categorias Dirección General de Cultura y Patrimonio Histórico|Consejería de Cultura, Turismo y Deporte|Cultura
             sent true
             modDate 2022-11-21
-            categorias Dirección General de Cultura y Patrimonio Histórico|Consejería de Cultura, Turismo y Deporte|Cultura
         }
     }
     {
@@ -793,9 +793,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2022-10-31
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Educación
             sent true
-            modDate 2022-10-31
         }
     }
     {

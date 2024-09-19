@@ -1,5 +1,22 @@
 [
     {
+        Title El Gobierno autoriza ayudas por importe de más de 2,5 millones de euros para la mejora y construcción de infraestructuras agrarias
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/el-gobierno-autoriza-ayudas-por-importe-de-m%C3%A1s-de-2-5-millones-de-euros-para-la-mejora-y-construcci%C3%B3n-de-infraestructuras-agrarias
+        Links [
+            https://www.cantabria.es/web/comunicados/w/el-gobierno-autoriza-ayudas-por-importe-de-m%C3%A1s-de-2-5-millones-de-euros-para-la-mejora-y-construcci%C3%B3n-de-infraestructuras-agrarias
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            sent true
+            modDate 2024-09-19
+            categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
+        }
+    }
+    {
         Title Buruaga valora que la visita de Doña Letizia refrenda el "extraordinario momento" de la FP en Cantabria
         Description 
         Content 
@@ -62,9 +79,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-17
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|2|Mazcuerras|Vivir en Cantabria|Estudiar en Cantabria|Educación
             sent true
-            modDate 2024-09-17
         }
     }
     {
@@ -79,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-16
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
-            sent true
         }
     }
     {
@@ -113,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-13
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|1|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Educación
+            sent true
         }
     }
     {
@@ -147,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-11
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Deporte|Dirección General Formación Profesional y Educación Permanente|Dirección General de Universidades y Política Universitaria|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Educación|Ocio-Deporte
             sent true
-            modDate 2024-09-11
         }
     }
     {
@@ -215,9 +232,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-02
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Instituciones gobierno|1|Educación|SubEducación
             sent true
+            modDate 2024-09-02
         }
     }
     {
@@ -320,23 +337,6 @@
             modDate 2024-08-22
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|3|Torrelavega|Estudiar en Cantabria|Cultura|Educación
             sent true
-        }
-    }
-    {
-        Title Silva realiza un balance "muy positivo" del funcionamiento del comedor y el aula de 1 año del CEIP Francisco de Quevedo y Villegas en Villasevil de Toranzo
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/silva-realiza-un-balance-muy-positivo-del-funcionamiento-del-comedor-y-el-aula-de-1-a%C3%B1o-del-ceip-francisco-de-quevedo-y-villegas-en-villasevil-de-toranzo
-        Links [
-            https://www.cantabria.es/web/comunicados/w/silva-realiza-un-balance-muy-positivo-del-funcionamiento-del-comedor-y-el-aula-de-1-a%C3%B1o-del-ceip-francisco-de-quevedo-y-villegas-en-villasevil-de-toranzo
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            sent true
-            modDate 2024-08-21
-            categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|3
         }
     }
 ]

@@ -1,5 +1,22 @@
 [
     {
+        Title El Gobierno autoriza ayudas por importe de más de 2,5 millones de euros para la mejora y construcción de infraestructuras agrarias
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/el-gobierno-autoriza-ayudas-por-importe-de-m%C3%A1s-de-2-5-millones-de-euros-para-la-mejora-y-construcci%C3%B3n-de-infraestructuras-agrarias
+        Links [
+            https://www.cantabria.es/web/comunicados/w/el-gobierno-autoriza-ayudas-por-importe-de-m%C3%A1s-de-2-5-millones-de-euros-para-la-mejora-y-construcci%C3%B3n-de-infraestructuras-agrarias
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
+            sent true
+        }
+    }
+    {
         Title El Gobierno de Cantabria y la empresa Bondalti firman un convenio para mejorar el estado de conservación del oso pardo en Cantabria
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-18
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|1|Santander|Agricultura y Ganadería|Economía y Comercio|Naturaleza y Medio Ambiente
-            sent true
         }
     }
     {
@@ -28,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-18
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Instituciones gobierno|2|Santoña|Vivir en Cantabria|Visitar Cantabria|Naturaleza y Medio Ambiente
-            sent true
         }
     }
     {
@@ -45,9 +62,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-18
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Pesca y Alimentación|ODECA|2|Santa María de Cayón|Agricultura y Ganadería|Economía y Comercio|Empresas
             sent true
-            modDate 2024-09-18
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-08
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Dirección General Pesca y Alimentación|Instituciones gobierno|2|Arnuero|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Turismo|Empresas
+            sent true
         }
     }
     {
@@ -164,9 +181,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-07
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Instituciones gobierno|Dirección General Ganadería|2|Torrelavega|Vivir en Cantabria|Trabajar en Cantabria|Agricultura y Ganadería
-            sent true
         }
     }
     {
@@ -232,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|Dirección General Pesca y Alimentación|Instituciones gobierno|Fondos FEDER|3|Trabajar en Cantabria|Pesca
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -283,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-26
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|1|Desarrollo Rural, Ganadería, Pesca y Alimentación|Alfoz de Lloredo|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Trabajo-Empleo|Turismo
-            sent true
         }
     }
     {
@@ -319,23 +336,6 @@
         Custom {
             modDate 2024-08-25
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|ODECA|1|Santa Cruz de Bezana|Vivir en Cantabria|Trabajar en Cantabria|Agricultura y Ganadería|Naturaleza y Medio Ambiente|Salud y Bienestar|Empresas
-            sent true
-        }
-    }
-    {
-        Title Pablo Palencia inaugura el Festival del Tomate de Santa Cruz de Bezana
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/pablo-palencia-inaugura-el-festival-del-tomate-de-santa-cruz-de-bezana
-        Links [
-            https://www.cantabria.es/web/comunicados/w/pablo-palencia-inaugura-el-festival-del-tomate-de-santa-cruz-de-bezana
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-08-24
-            categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Gobierno|2|Santa Cruz de Bezana|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Economía y Comercio|Naturaleza y Medio Ambiente|Trabajo-Empleo|Turismo
             sent true
         }
     }
