@@ -91,7 +91,7 @@ func readFeeds() error {
 			continue
 		}
 		// read rss
-		r := reader{f}
+		r := reader{&f}
 		items, err := r.read()
 		if err != nil {
 			fmt.Println(err)
@@ -106,7 +106,7 @@ func readFeeds() error {
 				// it.Custom[sentItem] = "true"
 				// continue
 				if it.Custom[sentItem] != "true" {
-					messages <- it
+					//messages <- it
 				}
 			}
 			close(messages)
@@ -172,7 +172,7 @@ func getThreadId(topic string) int {
 	}
 }
 
-func getFeeds() ([]*feed, error) {
+func getFeeds() ([]feed, error) {
 	// get feeds from a file
 	wd, _ := os.Getwd()
 	filePath := fmt.Sprintf("%s/%s", wd, feedsFileName)
@@ -183,7 +183,7 @@ func getFeeds() ([]*feed, error) {
 	if err != nil {
 		return nil, err
 	}
-	feeds := []*feed{}
+	feeds := []feed{}
 	err = nanomarkup.Unmarshal(data, &feeds, nil)
 	if err != nil {
 		return nil, err
@@ -193,7 +193,6 @@ func getFeeds() ([]*feed, error) {
 		it.File = fmt.Sprintf("%s/%s", wd, it.File)
 	}
 	return feeds, nil
-	// 4, 6, 11
 }
 
 func isWebsite(url string) (bool, error) {
