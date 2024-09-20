@@ -106,7 +106,7 @@ func readFeeds() error {
 				// it.Custom[sentItem] = "true"
 				// continue
 				if it.Custom[sentItem] != "true" {
-					//messages <- it
+					messages <- it
 				}
 			}
 			close(messages)
