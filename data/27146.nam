@@ -1,5 +1,22 @@
 [
     {
+        Title Las regiones atlánticas analizan en Cantabria los retos y oportunidades del turismo sostenible
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/las-regiones-atl%C3%A1nticas-analizan-en-cantabria-los-retos-y-oportunidades-del-turismo-sostenible
+        Links [
+            https://www.cantabria.es/web/comunicados/w/las-regiones-atl%C3%A1nticas-analizan-en-cantabria-los-retos-y-oportunidades-del-turismo-sostenible
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Dirección General de Cultura y Patrimonio Histórico|2|Cultura, Turismo y Deporte|Arnuero|Vivir en Cantabria|Visitar Cantabria|Cultura|Turismo
+            sent true
+        }
+    }
+    {
         Title El Soplao abre la nueva temporada de conciertos con Pablo López
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
             sent true
             modDate 2024-09-19
+            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
         }
     }
     {
@@ -28,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Subdirección General Turismo|Secretaría General Cultura Turismo y Deporte|Instituciones gobierno|2|Turismo|SubTurismo
-            sent true
         }
     }
     {
@@ -45,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-18
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Instituciones gobierno|2|Vivir en Cantabria|Visitar Cantabria
             sent true
+            modDate 2024-09-18
         }
     }
     {
@@ -62,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-18
             categorias Consejería de Cultura, Turismo y Deporte|Secretaría General Cultura Turismo y Deporte|Instituciones gobierno|Dirección General de Cultura y Patrimonio Histórico|2|Cultura|SubCultura
             sent true
+            modDate 2024-09-18
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-13
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Turismo
+            sent true
         }
     }
     {
@@ -215,9 +232,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-02
             categorias Consejería de Cultura, Turismo y Deporte|2|Vivir en Cantabria|Ocio-Deporte
+            sent true
         }
     }
     {
@@ -249,9 +266,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-01
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Corrales de Buelna (Los)|Vivir en Cantabria|Visitar Cantabria|Turismo
-            sent true
         }
     }
     {
@@ -300,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Santander|Vivir en Cantabria|Visitar Cantabria
             sent true
             modDate 2024-08-31
+            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Santander|Vivir en Cantabria|Visitar Cantabria
         }
     }
     {
@@ -319,23 +336,6 @@
         Custom {
             modDate 2024-08-31
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Deporte|Instituciones gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
-            sent true
-        }
-    }
-    {
-        Title Cultura Museo Marítimo Cantábrico acuarios alitán
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/cultura-museo-mar%C3%ADtimo-cant%C3%A1brico-acuarios-alit%C3%A1n
-        Links [
-            https://www.cantabria.es/web/comunicados/w/cultura-museo-mar%C3%ADtimo-cant%C3%A1brico-acuarios-alit%C3%A1n
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-08-31
-            categorias Consejería de Cultura, Turismo y Deporte|Instituciones gobierno|Dirección General de Cultura y Patrimonio Histórico|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
         }
     }

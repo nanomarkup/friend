@@ -1,5 +1,22 @@
 [
     {
+        Title El concesionario Nissan Blendio Parayas recibe el premio 'Nissan Global Award'
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/el-concesionario-nissan-blendio-parayas-recibe-el-premio-apos-nissan-global-award-apos-
+        Links [
+            https://www.cantabria.es/web/comunicados/w/el-concesionario-nissan-blendio-parayas-recibe-el-premio-apos-nissan-global-award-apos-
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|3|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Empresas
+            sent true
+        }
+    }
+    {
         Title El Gobierno convoca la XIII edición del concurso 'Objetivo Europa' para jóvenes cántabros
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-17
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|Dirección General de Fondos Europeos|3|Estudiar en Cantabria|Economía y Comercio|Educación
+            sent true
         }
     }
     {
@@ -62,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-09
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
+            sent true
         }
     }
     {
@@ -96,9 +113,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|ICANE|1|Santander|Economía y Comercio
             sent true
+            modDate 2024-09-04
         }
     }
     {
@@ -113,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-01
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|2|Arredondo|Vivir en Cantabria|Visitar Cantabria|Cultura
             sent true
-            modDate 2024-09-01
         }
     }
     {
@@ -130,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-30
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Cultura, Turismo y Deporte|Gobierno|2|Valdáliga|Vivir en Cantabria|Visitar Cantabria|Ocio-Deporte
             sent true
+            modDate 2024-08-30
         }
     }
     {
@@ -283,9 +300,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-01
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Gobierno|2|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|I+D+i|Empresas
+            sent true
         }
     }
     {
@@ -300,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-01
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|1|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Educación, Formación Profesional y Universidades|Desarrollo Rural, Ganadería, Pesca y Alimentación|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Naturaleza y Medio Ambiente|Ocio-Deporte|Turismo
             sent true
+            modDate 2024-08-01
         }
     }
     {
@@ -319,23 +336,6 @@
         Custom {
             modDate 2024-07-31
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|2|Santander|Vivir en Cantabria|Visitar Cantabria|Cultura
-            sent true
-        }
-    }
-    {
-        Title El Gobierno participa en el Pasacalles Cántabro con motivo del Día de las Instituciones
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/el-gobierno-participa-en-el-pasacalles-c%C3%A1ntabro-con-motivo-del-d%C3%ADa-de-las-instituciones
-        Links [
-            https://www.cantabria.es/web/comunicados/w/el-gobierno-participa-en-el-pasacalles-c%C3%A1ntabro-con-motivo-del-d%C3%ADa-de-las-instituciones
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-07-28
-            categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Instituciones gobierno|2|Ocio-Deporte|Turismo
             sent true
         }
     }

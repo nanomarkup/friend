@@ -48,8 +48,7 @@
             sent false
             modDate 2024-09-13
             categorias Dirección General Función Pública
-        }
-    }
+       }
     {
         Title SUBALTERNO (DISCAPACIDAD INTELECTUAL)
         Description 
@@ -215,6 +214,7 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-06
             categorias Grupo 1|Cuestionarios, temarios y plantillas
             sent false
@@ -589,9 +589,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
+            modDate 2024-09-04
         }
     }
     {
@@ -674,9 +674,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
+            modDate 2024-09-04
         }
     }
     {
@@ -725,9 +725,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
+            modDate 2024-09-04
         }
     }
     {
