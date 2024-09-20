@@ -73,6 +73,10 @@ func getFeeds() []*feed {
 	// Disabled because it duplicates 27139.nam
 	// feeds = append(feeds, &feed{"https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/size50", wd + "/data/4008216.nam", 4})
 	// Новини пропозиції про державну роботу
-	feeds = append(feeds, &feed{"https://empleopublico.cantabria.es/o/GOBIERNO/feed/group16475/inscom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_6Cx0YFAD8ZVK/size50", wd + "/data/6Cx0YFAD8ZVK.nam", 4})
+	feeds = append(feeds, &feed{"https://empleopublico.cantabria.es/o/GOBIERNO/feed/group16475/inscom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_6Cx0YFAD8ZVK/size50", wd + "/data/6Cx0YFAD8ZVK.nam", 6})
+	// Подорож Світ
+	feeds = append(feeds, &feed{"https://www.goworldtravel.com/feed/", wd + "/data/goworldtravel.nam", 11})
+	// Подорож Іспанія
+	feeds = append(feeds, &feed{"https://spainguides.com/feed/", wd + "/data/spainguides.nam", 11})
 	return feeds
 }

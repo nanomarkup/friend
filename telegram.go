@@ -11,7 +11,11 @@ import (
 )
 
 func (v *telegram) send(threadId int, item *gofeed.Item) error {
-	mes, err := v.getMessage(item.Title, item.Custom["categorias"], item.Link)
+	cats := item.Custom["categorias"]
+	if len(item.Categories) > 0 {
+		cats = item.Categories[0]
+	}
+	mes, err := v.getMessage(item.Title, cats, item.Link)
 	if err != nil {
 		return err
 	}

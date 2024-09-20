@@ -84,6 +84,9 @@ func readFeeds(feeds []*feed) {
 		messages := make(chan *gofeed.Item)
 		go func() {
 			for _, it := range items {
+				if it.Custom == nil {
+					it.Custom = map[string]string{}
+				}
 				// it.Custom[sentItem] = "true"
 				// continue
 				if it.Custom[sentItem] != "true" {

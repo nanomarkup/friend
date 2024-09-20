@@ -13,7 +13,7 @@
         Custom {
             modDate 2024-09-18
             categorias Administración General e Institucional|Empleo Público|Grupo 1|Técnico de Cocina|Bolsas abiertas y permanentes Laborales|Año 2024
-            sent true
+            sent false
         }
     }
     {
@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            categorias Listas de Sustituciones
-            sent true
             modDate 2024-09-16
+            categorias Listas de Sustituciones
+            sent false
         }
     }
     {
@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
-            categorias Dirección General Función Pública
-            sent true
+            sent false
             modDate 2024-09-13
+            categorias Dirección General Función Pública
         }
     }
     {
@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-06
             categorias Grupo 3|Cuestionarios, temarios y plantillas
+            sent false
         }
     }
     {
@@ -81,7 +81,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 3|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -96,7 +96,7 @@
         Published 
         GUID 
         Custom {
-            sent true
+            sent false
             modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
         }
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
+            modDate 2024-09-06
         }
     }
     {
@@ -132,7 +132,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -149,7 +149,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
+            modDate 2024-09-06
         }
     }
     {
@@ -181,9 +181,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
+            sent false
         }
     }
     {
@@ -200,7 +200,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -217,7 +217,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 1|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -234,7 +234,7 @@
         Custom {
             modDate 2024-09-06
             categorias Grupo 1|Cuestionarios, temarios y plantillas
-            sent true
+            sent false
         }
     }
     {
@@ -251,7 +251,7 @@
         Custom {
             modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Agrupaciones Profesionales (APS)
-            sent true
+            sent false
         }
     }
     {
@@ -266,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Agrupaciones Profesionales (APS)
+            sent false
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Subgrupo C1
+            sent false
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Subgrupo C1
-            sent true
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Subgrupo A2
             sent true
+            modDate 2024-09-06
         }
     }
     {
@@ -402,9 +402,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-06
             categorias Cuestionarios, temarios y plantillas|Subgrupo C2
-            sent true
         }
     }
     {
@@ -419,9 +419,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
         }
     }
     {
@@ -470,9 +470,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-04
             categorias Grupo 1|Cuestionarios, temarios y plantillas
+            sent true
         }
     }
     {
@@ -487,9 +487,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Cuestionarios, temarios y plantillas|Subgrupo A1
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -504,9 +504,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Cuestionarios, temarios y plantillas|Subgrupo A1
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -572,9 +572,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-04
             categorias Grupo 3|Cuestionarios, temarios y plantillas
+            sent true
         }
     }
     {
@@ -606,9 +606,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
+            sent true
         }
     }
     {
@@ -708,9 +708,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -742,9 +742,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -759,9 +759,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
             sent true
+            modDate 2024-09-04
         }
     }
     {
@@ -793,9 +793,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
-            sent true
         }
     }
     {
@@ -827,9 +827,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-04
             categorias Grupo 2|Cuestionarios, temarios y plantillas
+            sent true
         }
     }
     {
