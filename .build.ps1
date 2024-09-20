@@ -1,6 +1,11 @@
 # Synopsis: Run build
 task build {
-    $Status = Start-Process -FilePath 'go' -ArgumentList 'build' -NoNewWindow -PassThru -Wait
+    if ($PSVersionTable.Platform -ne 'Unix') {
+        $AppName = 'friend.exe'
+    } else {
+        $AppName = 'friend'
+    }
+    $Status = Start-Process -FilePath 'go' -ArgumentList "build -o ./bin/$AppName" -NoNewWindow -PassThru -Wait
     Assert($Status.ExitCode -eq 0) 'The build command failed'
 }
 
