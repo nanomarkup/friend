@@ -1,5 +1,39 @@
 [
     {
+        Title Buruaga renueva el compromiso del Gobierno con las Casas de Cantabria y reconoce su "pasión y arraigo" a la tierra
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/buruaga-renueva-el-compromiso-del-gobierno-con-las-casas-de-cantabria-y-reconoce-su-pasi%C3%B3n-y-arraigo-a-la-tierra
+        Links [
+            https://www.cantabria.es/web/comunicados/w/buruaga-renueva-el-compromiso-del-gobierno-con-las-casas-de-cantabria-y-reconoce-su-pasi%C3%B3n-y-arraigo-a-la-tierra
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-20
+            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Director General de Administración Local, Acción Exterior y Casas de Cantabria|Casas de Cantabria (Global)|1|Limpias|Vivir en Cantabria|Visitar Cantabria|Cultura|Empresas
+            sent true
+        }
+    }
+    {
+        Title Urrutia da la bienvenida a los representantes de las 24 Casas de Cantabria que participan en el X Encuentro de hermandad
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/urrutia-da-la-bienvenida-a-los-representantes-de-las-24-casas-de-cantabria-que-participan-en-el-x-encuentro-de-hermandad
+        Links [
+            https://www.cantabria.es/web/comunicados/w/urrutia-da-la-bienvenida-a-los-representantes-de-las-24-casas-de-cantabria-que-participan-en-el-x-encuentro-de-hermandad
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-19
+            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Director General de Administración Local, Acción Exterior y Casas de Cantabria|Casas de Cantabria (Global)|2|Presidencia, Justicia, Seguridad y Simplificación Administrativa|Limpias|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Cultura|Turismo
+            sent true
+        }
+    }
+    {
         Title Urrutia asegura diálogo y trabajo conjunto con los sindicatos para que Cantabria avance "más deprisa" y haga frente a los desafíos actuales
         Description 
         Content 
@@ -11,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Justicia
-            sent true
         }
     }
     {
@@ -28,9 +62,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-18
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Santander|Vivir en Cantabria|Visitar Cantabria|Cultura
-            sent true
         }
     }
     {
@@ -45,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            sent false
             modDate 2024-09-18
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Director General de Administración Local, Acción Exterior y Casas de Cantabria|Casas de Cantabria (Global)|3|Laredo|Ampuero|Limpias|Vivir en Cantabria|Visitar Cantabria
+            sent false
         }
     }
     {
@@ -62,9 +96,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Cultura, Turismo y Deporte|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|2|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Cultura
-            sent true
         }
     }
     {
@@ -96,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-14
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|1|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Cultura
-            sent true
         }
     }
     {
@@ -113,9 +147,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-10
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria
             sent true
+            modDate 2024-09-10
         }
     }
     {
@@ -130,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-09
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Economía y Comercio|Trabajo-Empleo|Empresas
             sent true
-            modDate 2024-09-09
         }
     }
     {
@@ -164,9 +198,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-06
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2
+            sent true
         }
     }
     {
@@ -181,9 +215,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-01
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Casas de Cantabria (Global)|2
+            sent true
         }
     }
     {
@@ -198,9 +232,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-31
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|3|Vivir en Cantabria
             sent true
-            modDate 2024-08-31
         }
     }
     {
@@ -232,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-28
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Director General de Administración Local, Acción Exterior y Casas de Cantabria|2|Presidencia, Justicia, Seguridad y Simplificación Administrativa|Argoños|Vivir en Cantabria|Visitar Cantabria|Salud y Bienestar|Juventud
+            sent true
         }
     }
     {
@@ -300,43 +334,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-23
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Instituciones gobierno|2|Vivir en Cantabria
             sent true
-        }
-    }
-    {
-        Title El Gobierno de Cantabria acompaña a Escalante en la celebración de la festividad de la Virgen de la Cama
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/el-gobierno-de-cantabria-acompa%C3%B1a-a-escalante-en-la-celebraci%C3%B3n-de-la-festividad-de-la-virgen-de-la-cama
-        Links [
-            https://www.cantabria.es/web/comunicados/w/el-gobierno-de-cantabria-acompa%C3%B1a-a-escalante-en-la-celebraci%C3%B3n-de-la-festividad-de-la-virgen-de-la-cama
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-08-22
-            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Escalante|Vivir en Cantabria|Visitar Cantabria|Cultura|Turismo
-            sent true
-        }
-    }
-    {
-        Title La Consejería de Presidencia convoca a ayudas a centros regionales asentados en Cantabria
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/la-consejer%C3%ADa-de-presidencia-convoca-a-ayudas-a-centros-regionales-asentados-en-cantabria
-        Links [
-            https://www.cantabria.es/web/comunicados/w/la-consejer%C3%ADa-de-presidencia-convoca-a-ayudas-a-centros-regionales-asentados-en-cantabria
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-08-22
-            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Director General de Administración Local, Acción Exterior y Casas de Cantabria|Instituciones gobierno|Casas de Cantabria (Global)|3|Vivir en Cantabria|Turismo|Justicia
-            sent true
+            modDate 2024-08-23
         }
     }
 ]

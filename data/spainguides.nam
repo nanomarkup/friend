@@ -337,7 +337,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -495,18 +495,6 @@
             ]
         }
         Extensions {
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Zak
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             wfw {
                 commentRss [
                     {
@@ -531,9 +519,21 @@
                     }
                 ]
             }
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Zak
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -720,18 +720,6 @@
             ]
         }
         Extensions {
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             dc {
                 creator [
                     {
@@ -756,9 +744,21 @@
                     }
                 ]
             }
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -968,6 +968,18 @@
             ]
         }
         Extensions {
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Matt
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             wfw {
                 commentRss [
                     {
@@ -992,21 +1004,9 @@
                     }
                 ]
             }
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Matt
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -1218,7 +1218,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -1402,7 +1402,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -1691,18 +1691,6 @@
             ]
         }
         Extensions {
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             dc {
                 creator [
                     {
@@ -1727,9 +1715,21 @@
                     }
                 ]
             }
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -2143,6 +2143,18 @@ Benidorm is well known for its diverse and captivating accommodation options.</p
             ]
         }
         Extensions {
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Zak
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             wfw {
                 commentRss [
                     {
@@ -2160,18 +2172,6 @@ Benidorm is well known for its diverse and captivating accommodation options.</p
                     {
                         Name comments
                         Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Zak
                         Attrs {
                         }
                         Children {
@@ -2332,6 +2332,18 @@ Benidorm is well known for its diverse and captivating accommodation options.</p
             ]
         }
         Extensions {
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Matt
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             wfw {
                 commentRss [
                     {
@@ -2349,18 +2361,6 @@ Benidorm is well known for its diverse and captivating accommodation options.</p
                     {
                         Name comments
                         Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Matt
                         Attrs {
                         }
                         Children {

@@ -79,7 +79,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -161,7 +161,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -202,6 +202,18 @@
             ]
         }
         Extensions {
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Debbie Stone
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             wfw {
                 commentRss [
                     {
@@ -226,21 +238,9 @@
                     }
                 ]
             }
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Debbie Stone
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -321,7 +321,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -402,7 +402,7 @@
             }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -443,18 +443,6 @@
             ]
         }
         Extensions {
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             dc {
                 creator [
                     {
@@ -479,9 +467,21 @@
                     }
                 ]
             }
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -524,6 +524,18 @@
             ]
         }
         Extensions {
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             dc {
                 creator [
                     {
@@ -548,21 +560,9 @@
                     }
                 ]
             }
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -606,18 +606,6 @@
             ]
         }
         Extensions {
-            dc {
-                creator [
-                    {
-                        Name creator
-                        Value Go World Travel Magazine
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             wfw {
                 commentRss [
                     {
@@ -642,9 +630,21 @@
                     }
                 ]
             }
+            dc {
+                creator [
+                    {
+                        Name creator
+                        Value Go World Travel Magazine
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
         }
         Custom {
-            sent false
+            sent true
         }
     }
     {
@@ -692,6 +692,18 @@
             ]
         }
         Extensions {
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
             dc {
                 creator [
                     {
@@ -709,18 +721,6 @@
                     {
                         Name commentRss
                         Value https://www.goworldtravel.com/48-hours-in-alesund-norway/feed/
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
                         Attrs {
                         }
                         Children {
@@ -774,18 +774,6 @@
             ]
         }
         Extensions {
-            slash {
-                comments [
-                    {
-                        Name comments
-                        Value 0
-                        Attrs {
-                        }
-                        Children {
-                        }
-                    }
-                ]
-            }
             dc {
                 creator [
                     {
@@ -803,6 +791,18 @@
                     {
                         Name commentRss
                         Value https://www.goworldtravel.com/avoid-common-travel-scams/feed/
+                        Attrs {
+                        }
+                        Children {
+                        }
+                    }
+                ]
+            }
+            slash {
+                comments [
+                    {
+                        Name comments
+                        Value 0
                         Attrs {
                         }
                         Children {

@@ -1,5 +1,39 @@
 [
     {
+        Title Media anuncia el auto que imposibilita la demolición de las 20 viviendas de Entrelindes en Liencres (Piélagos)
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/media-anuncia-el-auto-que-imposibilita-la-demolici%C3%B3n-de-las-20-viviendas-de-entrelindes-en-liencres-pi%C3%A9lagos-
+        Links [
+            https://www.cantabria.es/web/comunicados/w/media-anuncia-el-auto-que-imposibilita-la-demolici%C3%B3n-de-las-20-viviendas-de-entrelindes-en-liencres-pi%C3%A9lagos-
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            sent true
+            modDate 2024-09-20
+            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|1|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Justicia|InverCantabria
+        }
+    }
+    {
+        Title Media destaca que la futura Ley de Control Ambiental mantendrá todas las garantías medioambientales con una tramitación "infinitamente más dinámica y sencilla"
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/media-destaca-que-la-futura-ley-de-control-ambiental-mantendr%C3%A1-todas-las-garant%C3%ADas-medioambientales-con-una-tramitaci%C3%B3n-infinitamente-m%C3%A1s-din%C3%A1mica-y-sencilla-
+        Links [
+            https://www.cantabria.es/web/comunicados/w/media-destaca-que-la-futura-ley-de-control-ambiental-mantendr%C3%A1-todas-las-garant%C3%ADas-medioambientales-con-una-tramitaci%C3%B3n-infinitamente-m%C3%A1s-din%C3%A1mica-y-sencilla-
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-20
+            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección del CIMA|Dirección General de Medio Ambiente y Cambio Climático|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Naturaleza y Medio Ambiente
+            sent true
+        }
+    }
+    {
         Title Fomento convoca las ayudas a la digitalización de autónomos y pymes de transporte de mercancías
         Description 
         Content 
@@ -28,9 +62,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-19
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
             sent true
+            modDate 2024-09-19
         }
     }
     {
@@ -130,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-15
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|InverCantabria
             sent true
+            modDate 2024-09-15
         }
     }
     {
@@ -147,9 +181,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-14
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Infraestructuras y Transporte|InverCantabria
-            sent true
         }
     }
     {
@@ -198,9 +232,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-13
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|Instituciones gobierno|D.G. de Aguas y Puertos|2|Ampuero|Infraestructuras y Transporte
-            sent true
         }
     }
     {
@@ -215,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-12
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Dirección General Transportes y Comunicaciones|2|Santander|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Economía y Comercio|Industria|Infraestructuras y Transporte|Empresas
-            sent true
         }
     }
     {
@@ -249,9 +283,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-09
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|2|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Argoños|Arnuero|Escalante|Piélagos|Vivir en Cantabria|Trabajar en Cantabria|Infraestructuras y Transporte|Justicia
+            sent true
         }
     }
     {
@@ -266,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-06
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|1|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Santa Cruz de Bezana|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Infraestructuras y Transporte
             sent true
-            modDate 2024-09-06
         }
     }
     {
@@ -303,40 +337,6 @@
             modDate 2024-09-05
             categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|3
             sent true
-        }
-    }
-    {
-        Title Fomento invierte 464.000 euros para mejorar la circulación y la seguridad vial en Polanco
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/fomento-invierte-464.000-euros-para-mejorar-la-circulaci%C3%B3n-y-la-seguridad-vial-en-polanco
-        Links [
-            https://www.cantabria.es/web/comunicados/w/fomento-invierte-464.000-euros-para-mejorar-la-circulaci%C3%B3n-y-la-seguridad-vial-en-polanco
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-09-04
-            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|Dirección General Obras Públicas|2|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Polanco|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Infraestructuras y Transporte
-            sent true
-        }
-    }
-    {
-        Title Fomento acometerá en una única fase la construcción del Centro de Educación Ambiental y Social 'Adolfo Suárez' de Arnuero con una inversión de casi 5 millones de euros
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/fomento-acometer%C3%A1-en-una-%C3%BAnica-fase-la-construcci%C3%B3n-del-centro-de-educaci%C3%B3n-ambiental-y-social-apos-adolfo-su%C3%A1rez-apos-de-arnuero-con-una-inversi%C3%B3n-de-casi-5-millones-de-euros
-        Links [
-            https://www.cantabria.es/web/comunicados/w/fomento-acometer%C3%A1-en-una-%C3%BAnica-fase-la-construcci%C3%B3n-del-centro-de-educaci%C3%B3n-ambiental-y-social-apos-adolfo-su%C3%A1rez-apos-de-arnuero-con-una-inversi%C3%B3n-de-casi-5-millones-de-euros
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            categorias Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|1|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Arnuero|Vivir en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Educación|Infraestructuras y Transporte|Ocio-Deporte|Turismo
-            sent true
-            modDate 2024-09-03
         }
     }
 ]

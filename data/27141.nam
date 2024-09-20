@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-17
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|Dirección General de Fondos Europeos|3|Estudiar en Cantabria|Economía y Comercio|Educación
             sent true
+            modDate 2024-09-17
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-04
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|ICANE|1|Santander|Economía y Comercio
             sent true
-            modDate 2024-09-04
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-30
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Cultura, Turismo y Deporte|Gobierno|2|Valdáliga|Vivir en Cantabria|Visitar Cantabria|Ocio-Deporte
             sent true
-            modDate 2024-08-30
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-23
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|3
             sent true
+            modDate 2024-08-23
         }
     }
     {
@@ -215,9 +215,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-13
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|3
-            sent true
         }
     }
     {
@@ -266,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-07
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Cultura, Turismo y Deporte|Gobierno|Instituciones gobierno|2|Vivir en Cantabria
             sent true
+            modDate 2024-08-07
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-01
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|1|Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Educación, Formación Profesional y Universidades|Desarrollo Rural, Ganadería, Pesca y Alimentación|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Naturaleza y Medio Ambiente|Ocio-Deporte|Turismo
             sent true
-            modDate 2024-08-01
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-07-31
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Gobierno|Instituciones gobierno|2|Santander|Vivir en Cantabria|Visitar Cantabria|Cultura
-            sent true
         }
     }
 ]

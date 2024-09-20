@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-19
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Santander|Agricultura y Ganadería|Economía y Comercio|Educación|Infraestructuras y Transporte|Salud y Bienestar|Empresas
-            sent true
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-16
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General Formación Profesional y Educación Permanente|Instituciones gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
             sent true
-            modDate 2024-09-16
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-16
             categorias Consejería de Educación, Formación Profesional y Universidades|Gobierno|Vivir en Cantabria|Estudiar en Cantabria|Educación
-            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-13
             categorias Consejería de Educación, Formación Profesional y Universidades|Dirección General de Centros e Infraestructuras Educativas|2|Torrelavega|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Educación
-            sent true
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-29
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Salud|Gobierno|Consejería de Inclusión Social, Juventud, Familias e Igualdad|1|Cabuérniga|Mazcuerras|Camaleño|Vega de Liébana|Molledo|Cieza|Tojos (Los)|Corrales de Buelna (Los)|Castro Urdiales|Cartes|Udías|Corvera de Toranzo|Vega de Pas|Villacarriedo|Santiurde de Toranzo|Miera|Val de San Vicente|San Vicente de la Barquera|Herrerías|Vivir en Cantabria|Agricultura y Ganadería|Educación|Infraestructuras y Transporte|Salud y Bienestar|Juventud
+            sent true
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-28
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Fomento, Vivienda, Ordenación del Territorio y Medio Ambiente|Gobierno|Dirección General de Centros e Infraestructuras Educativas|Dirección del CIMA|Instituciones gobierno|Dirección General de Medio Ambiente y Cambio Climático|2|Valderredible|Estudiar en Cantabria|Educación
             sent true
+            modDate 2024-08-28
         }
     }
     {
