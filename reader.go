@@ -12,12 +12,12 @@ import (
 func (v *reader) read() ([]*gofeed.Item, error) {
 	// get items from an online resource
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL(v.feed.url)
+	feed, err := fp.ParseURL(v.feed.Link)
 	if err != nil {
 		return nil, err
 	}
 	// get items from a file
-	_, err = os.Stat(v.feed.filePath)
+	_, err = os.Stat(v.feed.File)
 	if err != nil {
 		if os.IsNotExist(err) {
 			return feed.Items, nil
@@ -26,7 +26,7 @@ func (v *reader) read() ([]*gofeed.Item, error) {
 		}
 	}
 	items := []gofeed.Item{}
-	data, err := os.ReadFile(v.feed.filePath)
+	data, err := os.ReadFile(v.feed.File)
 	if err != nil {
 		return nil, err
 	}
@@ -53,10 +53,10 @@ func (v *reader) read() ([]*gofeed.Item, error) {
 }
 
 func (v *reader) save(items []*gofeed.Item) error {
-	_, err := os.Stat(v.feed.filePath)
+	_, err := os.Stat(v.feed.File)
 	if err != nil {
 		if os.IsNotExist(err) {
-			err = os.MkdirAll(filepath.Dir(v.feed.filePath), os.ModePerm)
+			err = os.MkdirAll(filepath.Dir(v.feed.File), os.ModePerm)
 			if err != nil {
 				return err
 			}
@@ -64,7 +64,7 @@ func (v *reader) save(items []*gofeed.Item) error {
 			return err
 		}
 	}
-	file, err := os.Create(v.feed.filePath)
+	file, err := os.Create(v.feed.File)
 	if err != nil {
 		return err
 	}

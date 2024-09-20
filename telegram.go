@@ -40,7 +40,7 @@ func (v *telegram) send(threadId int, item *gofeed.Item) error {
 	if resp.StatusCode == http.StatusOK {
 		return nil
 	} else {
-		return fmt.Errorf("Failed to send message. Status code: %d\n", resp.StatusCode)
+		return fmt.Errorf("failed to send message. Status code: %d", resp.StatusCode)
 	}
 }
 

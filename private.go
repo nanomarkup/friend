@@ -7,16 +7,19 @@ import (
 	"io"
 	"net/http"
 	"net/url"
+	"os"
 	"strings"
 	"time"
 
 	"github.com/mmcdole/gofeed"
+	"github.com/nanomarkup/nanomarkup.go"
 )
 
 type feed struct {
-	url             string
-	filePath        string
-	messageThreadId int
+	Link   string
+	File   string
+	Topic  string
+	Active bool
 }
 
 type reader struct {
@@ -29,14 +32,14 @@ type telegram struct {
 }
 
 const (
-	sentItem string = "sent"
+	sentItem      string = "sent"
+	feedsFileName string = "feeds.nano"
 )
 
 func main() {
-	feeds := getFeeds()
 	spain, err := time.LoadLocation("Europe/Madrid")
 	if err != nil {
-		fmt.Println("Error loading location:", err)
+		fmt.Printf("Error loading location: %s\n", err)
 		return
 	}
 
@@ -48,7 +51,10 @@ func main() {
 	minute := now.Minute()
 	if hour >= startHour && hour <= endHour {
 		fmt.Printf("[%d:%d] Reading feeds...\n", hour, minute)
-		readFeeds(feeds)
+		err = readFeeds()
+		if err != nil {
+			fmt.Println(err)
+		}
 	}
 	for {
 		now = time.Now().In(spain)
@@ -62,18 +68,28 @@ func main() {
 			hour = now.Hour()
 			minute = now.Minute()
 			fmt.Printf("[%d:%d] Reading feeds...\n", hour, minute)
-			readFeeds(feeds)
+			err = readFeeds()
+			if err != nil {
+				fmt.Println(err)
+			}
 		}
 	}
 }
 
-func readFeeds(feeds []*feed) {
+func readFeeds() error {
+	feeds, err := getFeeds()
+	if err != nil {
+		return err
+	}
 	// handle 20 messages per minute
 	ticker := time.NewTicker(3 * time.Second)
 	defer ticker.Stop()
 
-	sender := telegram{"7211500498:AAHDAFhG0CxRxVzYzb9oiOX5y0sc3miyVB8", "-1002415103094"} //-4573799901
+	sender := telegram{"7211500498:AAHDAFhG0CxRxVzYzb9oiOX5y0sc3miyVB8", "-1002415103094"}
 	for _, f := range feeds {
+		if !f.Active {
+			continue
+		}
 		// read rss
 		r := reader{f}
 		items, err := r.read()
@@ -98,7 +114,7 @@ func readFeeds(feeds []*feed) {
 		// send items using limitation in time
 		for msg := range messages {
 			<-ticker.C
-			err = sender.send(f.messageThreadId, msg)
+			err = sender.send(getThreadId(f.Topic), msg)
 			if err == nil {
 				msg.Custom[sentItem] = "true"
 			} else {
@@ -107,27 +123,28 @@ func readFeeds(feeds []*feed) {
 		}
 		r.save(items)
 	}
+	return nil
 }
 
 func translate(src, srcLang, dstLang string) (string, error) {
 	url := fmt.Sprintf("https://translate.googleapis.com/translate_a/single?client=gtx&sl=%s&tl=%s&dt=t&q=%s", srcLang, dstLang, url.QueryEscape(src))
 	r, err := http.Get(url)
 	if err != nil {
-		return "", errors.New("Error getting translate.googleapis.com")
+		return "", errors.New("error getting translate.googleapis.com")
 	}
 	defer r.Body.Close()
 
 	body, err := io.ReadAll(r.Body)
 	if err != nil {
-		return "", errors.New("Error reading response body")
+		return "", errors.New("error reading response body")
 	}
 	if strings.Contains(string(body), `<title>Error 400 (Bad Request)`) {
-		return "", errors.New("Error 400 (Bad Request)")
+		return "", errors.New("error 400 (Bad Request)")
 	}
 	var result []interface{}
 	err = json.Unmarshal(body, &result)
 	if err != nil {
-		return "", errors.New("Error unmarshaling data")
+		return "", errors.New("error unmarshaling data")
 	}
 	if len(result) > 0 {
 		var text []string
@@ -140,8 +157,43 @@ func translate(src, srcLang, dstLang string) (string, error) {
 		}
 		return strings.Join(text, ""), nil
 	} else {
-		return "", errors.New("No translated data in responce")
+		return "", errors.New("no translated data in responce")
 	}
+}
+
+func getThreadId(topic string) int {
+	switch topic {
+	case "job":
+		return 6
+	case "travel":
+		return 11
+	default:
+		return 4 // cantabria
+	}
+}
+
+func getFeeds() ([]*feed, error) {
+	// get feeds from a file
+	wd, _ := os.Getwd()
+	filePath := fmt.Sprintf("%s/%s", wd, feedsFileName)
+	if _, err := os.Stat(filePath); os.IsNotExist(err) {
+		return nil, fmt.Errorf("\"%s\" does not exist", filePath)
+	}
+	data, err := os.ReadFile(filePath)
+	if err != nil {
+		return nil, err
+	}
+	feeds := []*feed{}
+	err = nanomarkup.Unmarshal(data, &feeds, nil)
+	if err != nil {
+		return nil, err
+	}
+	// update path to files
+	for _, it := range feeds {
+		it.File = fmt.Sprintf("%s/%s", wd, it.File)
+	}
+	return feeds, nil
+	// 4, 6, 11
 }
 
 func isWebsite(url string) (bool, error) {
