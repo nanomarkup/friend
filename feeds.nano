@@ -243,13 +243,13 @@
 	    Link https://www.goworldtravel.com/feed/
         File data/goworldtravel.nam
         Topic travel
-        Active true
+        Active false
     }
 	// Подорож Іспанія
     {
 	    Link https://spainguides.com/feed/
         File data/spainguides.nam
         Topic travel
-        Active true
+        Active false
     }
 ]

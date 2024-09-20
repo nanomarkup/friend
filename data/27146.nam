@@ -1,5 +1,22 @@
 [
     {
+        Title Justas Literarias Reinosa
+        Description 
+        Content 
+        Link https://www.cantabria.es/web/comunicados/w/justas-literarias-reinosa
+        Links [
+            https://www.cantabria.es/web/comunicados/w/justas-literarias-reinosa
+        ]
+        Updated 
+        Published 
+        GUID 
+        Custom {
+            modDate 2024-09-20
+            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
+            sent true
+        }
+    }
+    {
         Title Martínez Abad apuesta por un turismo sostenible que respete el medio ambiente y reconozca la cultura como elemento diferenciador
         Description 
         Content 
@@ -11,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-20
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Dirección General de Cultura y Patrimonio Histórico|1|Arnuero|Cultura|Turismo
+            sent true
         }
     }
     {
@@ -28,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-09-20
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria
-            sent true
         }
     }
     {
@@ -62,9 +79,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-19
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|Dirección General Turismo y Hostelería|Instituciones gobierno|3|Vivir en Cantabria|Visitar Cantabria
             sent true
+            modDate 2024-09-19
         }
     }
     {
@@ -147,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Cultura, Turismo y Deporte|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|2|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Cultura
             sent true
-            modDate 2024-09-17
         }
     }
     {
@@ -181,9 +198,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-13
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|3|Vivir en Cantabria|Trabajar en Cantabria|Estudiar en Cantabria|Visitar Cantabria|Turismo
             sent true
+            modDate 2024-09-13
         }
     }
     {
@@ -215,9 +232,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-10
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Cultura
+            sent true
         }
     }
     {
@@ -249,9 +266,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-09-03
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General Turismo y Hostelería|1|Santander|Turismo
             sent true
+            modDate 2024-09-03
         }
     }
     {
@@ -283,9 +300,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-02
             categorias Consejería de Cultura, Turismo y Deporte|Dirección General de Cultura y Patrimonio Histórico|2|Potes|Cultura
+            sent true
         }
     }
     {
@@ -300,9 +317,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-01
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Corrales de Buelna (Los)|Vivir en Cantabria|Visitar Cantabria|Turismo
+            sent true
         }
     }
     {
@@ -317,25 +334,8 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-01
             categorias Consejería de Cultura, Turismo y Deporte|Gobierno|3|Vivir en Cantabria|Visitar Cantabria|Cultura|Turismo
-        }
-    }
-    {
-        Title Buruaga se suma a la celebración de la Fiesta del Cocido en Ucieda que rinde homenaje a sus promotores
-        Description 
-        Content 
-        Link https://www.cantabria.es/web/comunicados/w/buruaga-se-suma-a-la-celebraci%C3%B3n-de-la-fiesta-del-cocido-en-ucieda-que-rinde-homenaje-a-sus-promotores
-        Links [
-            https://www.cantabria.es/web/comunicados/w/buruaga-se-suma-a-la-celebraci%C3%B3n-de-la-fiesta-del-cocido-en-ucieda-que-rinde-homenaje-a-sus-promotores
-        ]
-        Updated 
-        Published 
-        GUID 
-        Custom {
-            modDate 2024-09-01
-            categorias Consejería de Cultura, Turismo y Deporte|Gobierno|1|Ruente|Vivir en Cantabria|Visitar Cantabria|Turismo
             sent true
         }
     }

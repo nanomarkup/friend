@@ -62,9 +62,9 @@
         Published 
         GUID 
         Custom {
+            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Santander|Vivir en Cantabria|Visitar Cantabria|Cultura
             sent true
             modDate 2024-09-18
-            categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Santander|Vivir en Cantabria|Visitar Cantabria|Cultura
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Consejería de Cultura, Turismo y Deporte|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|2|Vivir en Cantabria|Visitar Cantabria|Agricultura y Ganadería|Cultura
+            sent true
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-16
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Cartes|Torrelavega|Vivir en Cantabria|Visitar Cantabria|Turismo
             sent true
-            modDate 2024-09-16
         }
     }
     {
@@ -130,9 +130,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-14
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|1|Vivir en Cantabria|Trabajar en Cantabria|Visitar Cantabria|Cultura
+            sent true
         }
     }
     {
@@ -147,9 +147,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-10
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Vivir en Cantabria|Trabajar en Cantabria
             sent true
-            modDate 2024-09-10
         }
     }
     {
@@ -232,9 +232,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-31
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|3|Vivir en Cantabria
-            sent true
         }
     }
     {
@@ -249,9 +249,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-30
             categorias Consejería de Cultura, Turismo y Deporte|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Laredo|Vivir en Cantabria|Visitar Cantabria|Turismo
             sent true
-            modDate 2024-08-30
         }
     }
     {
@@ -283,9 +283,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-28
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Instituciones gobierno|2|Vivir en Cantabria
             sent true
+            modDate 2024-08-28
         }
     }
     {
@@ -300,9 +300,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-26
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|2|Pesquera|Vivir en Cantabria
-            sent true
         }
     }
     {
@@ -334,9 +334,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-23
             categorias Consejería de Educación, Formación Profesional y Universidades|Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Gobierno|Instituciones gobierno|2|Vivir en Cantabria
             sent true
-            modDate 2024-08-23
         }
     }
 ]

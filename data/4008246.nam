@@ -28,9 +28,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-09-18
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo
+            sent true
         }
     }
     {
@@ -45,9 +45,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-09-17
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación
             sent true
-            modDate 2024-09-17
         }
     }
     {
@@ -96,9 +96,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo
             sent true
             modDate 2024-09-09
+            categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo
         }
     }
     {
@@ -113,9 +113,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-08-28
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Pesca y Alimentación
+            sent true
         }
     }
     {
@@ -164,9 +164,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-08
             categorias Consejería de Presidencia, Justicia, Seguridad y Simplificación Administrativa|Dirección General de Simplificación Administrativa Transparencia y Participación Ciudadana
-            sent true
         }
     }
     {
@@ -181,9 +181,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-08
             categorias Consejería de Economía, Hacienda, Financiación Autonómica y Fondos Europeos|Direccion de la Agencia Cantabra de Administración Tributaria
-            sent true
         }
     }
     {
@@ -198,9 +198,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-07
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación
-            sent true
         }
     }
     {
@@ -266,9 +266,9 @@
         Published 
         GUID 
         Custom {
+            sent true
             modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
-            sent true
         }
     }
     {
@@ -317,9 +317,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-08-02
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación
             sent true
-            modDate 2024-08-02
         }
     }
     {
@@ -351,9 +351,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-08-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General Trabajo Economía Social y Empleo Autónomo
             sent true
+            modDate 2024-08-02
         }
     }
     {
@@ -368,9 +368,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-31
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Ganadería
             sent true
-            modDate 2024-07-31
         }
     }
     {
@@ -402,9 +402,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-24
             categorias Consejería de Inclusión Social, Juventud, Familias e Igualdad|Instituto Cántabro de Servicios Sociales
+            sent true
         }
     }
     {
@@ -453,9 +453,9 @@
         Published 
         GUID 
         Custom {
-            categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
             sent true
             modDate 2024-07-10
+            categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
         }
     }
     {
@@ -538,9 +538,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-10
             categorias Consejería de Desarrollo Rural, Ganadería, Pesca y Alimentación|Dirección General Desarrollo Rural
             sent true
-            modDate 2024-07-10
         }
     }
     {
@@ -572,9 +572,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-08
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
+            sent true
         }
     }
     {
@@ -623,9 +623,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-08
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
             sent true
-            modDate 2024-07-08
         }
     }
     {
@@ -657,9 +657,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-04
             categorias Consejería de Salud|Dirección General de Planificación Ordenación Gestión del Conocimiento y Salud Digital
             sent true
-            modDate 2024-07-04
         }
     }
     {
@@ -674,9 +674,9 @@
         Published 
         GUID 
         Custom {
-            sent true
             modDate 2024-07-04
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Servicio Cántabro de Empleo
+            sent true
         }
     }
     {
@@ -691,9 +691,9 @@
         Published 
         GUID 
         Custom {
+            modDate 2024-07-02
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Industria Energía y Minas
             sent true
-            modDate 2024-07-02
         }
     }
     {
@@ -793,9 +793,9 @@
         Published 
         GUID 
         Custom {
-            modDate 2024-06-25
             categorias Consejería de Industria, Empleo, Innovación y Comercio|Dirección General de Comercio y Consumo
             sent true
+            modDate 2024-06-25
         }
     }
     {
