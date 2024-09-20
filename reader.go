@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/mmcdole/gofeed"
 	"github.com/nanomarkup/nanomarkup.go"
@@ -12,7 +13,7 @@ import (
 func (v *reader) read() ([]*gofeed.Item, error) {
 	// get items from an online resource
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL(v.feed.Link)
+	feed, err := fp.ParseURL(strings.Trim(v.feed.Link, " "))
 	if err != nil {
 		return nil, err
 	}
