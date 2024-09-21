@@ -13,17 +13,13 @@ import (
 
 	"github.com/mmcdole/gofeed"
 	"github.com/nanomarkup/nanomarkup.go"
+	"go.etcd.io/bbolt"
 )
 
 type feed struct {
 	Link   string
-	File   string
 	Topic  string
 	Active bool
-}
-
-type reader struct {
-	feed *feed
 }
 
 type telegram struct {
@@ -32,7 +28,7 @@ type telegram struct {
 }
 
 const (
-	sentItem      string = "sent"
+	dbFileName    string = "feeds.db"
 	feedsFileName string = "feeds.nano"
 )
 
@@ -77,51 +73,102 @@ func main() {
 }
 
 func readFeeds() error {
+	db, err := getDB()
+	if err != nil {
+		return err
+	}
 	feeds, err := getFeeds()
 	if err != nil {
 		return err
 	}
 	// handle 20 messages per minute
-	ticker := time.NewTicker(3 * time.Second)
-	defer ticker.Stop()
+	interval := 3 * time.Second
+	currentTime := time.Now()
+	lastExecuted := currentTime
+	diff := time.Duration(0)
 
+	fp := gofeed.NewParser()
 	sender := telegram{"7211500498:AAHDAFhG0CxRxVzYzb9oiOX5y0sc3miyVB8", "-1002415103094"}
 	for _, f := range feeds {
 		if !f.Active {
+			if err = db.Update(
+				func(tx *bbolt.Tx) error {
+					b := tx.Bucket([]byte("feeds"))
+					if b == nil {
+						return fmt.Errorf("\"%s\" topic is missing in db", "feeds")
+					} else {
+						return b.Put([]byte(f.Link), []byte{0})
+					}
+				}); err != nil {
+				fmt.Println(err)
+			}
 			continue
 		}
 		// read rss
-		r := reader{&f}
-		items, err := r.read()
+		feed, err := fp.ParseURL(strings.Trim(f.Link, " "))
 		if err != nil {
 			fmt.Println(err)
 		}
-		// get items to send
-		messages := make(chan *gofeed.Item)
-		go func() {
-			for _, it := range items {
-				if it.Custom == nil {
-					it.Custom = map[string]string{}
+		// check the feed was active
+		activated := false
+		if err = db.Update(
+			func(tx *bbolt.Tx) error {
+				feeds := tx.Bucket([]byte("feeds"))
+				if feeds == nil {
+					return fmt.Errorf("\"%s\" topic is missing in db", "feeds")
 				}
-				// it.Custom[sentItem] = "true"
-				// continue
-				if it.Custom[sentItem] != "true" {
-					messages <- it
+				v := feeds.Get([]byte(f.Link))
+				if v == nil || v[0] == 0 {
+					// add all items to a topic and skip the sending them
+					for _, it := range feed.Items {
+						topic := tx.Bucket([]byte(f.Topic))
+						if topic == nil {
+							return fmt.Errorf("\"%s\" topic is missing in db", f.Topic)
+						} else if v := topic.Get([]byte(it.Link)); v == nil {
+							topic.Put([]byte(it.Link), []byte(time.Now().Format(time.RFC3339)))
+						}
+					}
+					// update the feed
+					activated = true
+					return feeds.Put([]byte(f.Link), []byte{1})
 				}
-			}
-			close(messages)
-		}()
-		// send items using limitation in time
-		for msg := range messages {
-			<-ticker.C
-			err = sender.send(getThreadId(f.Topic), msg)
-			if err == nil {
-				msg.Custom[sentItem] = "true"
-			} else {
+				return nil
+			}); err != nil {
+			fmt.Println(err)
+			continue
+		}
+		if activated {
+			fmt.Printf("\"%s\" feed is activated\n", f.Link)
+			continue
+		}
+		// iterate all rss
+		for _, it := range feed.Items {
+			if err = db.Update(
+				func(tx *bbolt.Tx) error {
+					b := tx.Bucket([]byte(f.Topic))
+					if b == nil {
+						return fmt.Errorf("\"%s\" topic is missing in db", f.Topic)
+					} else if v := b.Get([]byte(it.Link)); v == nil {
+						// limit the sending messages
+						currentTime = time.Now()
+						diff = currentTime.Sub(lastExecuted)
+						if diff < interval {
+							time.Sleep(interval - diff)
+						}
+						// send a new message
+						err = sender.send(getThreadId(f.Topic), it)
+						lastExecuted = currentTime
+						if err == nil {
+							return b.Put([]byte(it.Link), []byte(time.Now().Format(time.RFC3339)))
+						} else {
+							return err
+						}
+					}
+					return nil
+				}); err != nil {
 				fmt.Println(err)
 			}
 		}
-		r.save(items)
 	}
 	return nil
 }
@@ -172,6 +219,32 @@ func getThreadId(topic string) int {
 	}
 }
 
+func getDB() (*bbolt.DB, error) {
+	db, err := bbolt.Open(dbFileName, 0600, nil)
+	if err != nil {
+		return nil, err
+	}
+	if err = db.Update(
+		func(tx *bbolt.Tx) error {
+			if _, err := tx.CreateBucketIfNotExists([]byte("feeds")); err != nil {
+				return err
+			}
+			if _, err := tx.CreateBucketIfNotExists([]byte("cantabria")); err != nil {
+				return err
+			}
+			if _, err := tx.CreateBucketIfNotExists([]byte("travel")); err != nil {
+				return err
+			}
+			if _, err := tx.CreateBucketIfNotExists([]byte("job")); err != nil {
+				return err
+			}
+			return nil
+		}); err != nil {
+		return nil, err
+	}
+	return db, nil
+}
+
 func getFeeds() ([]feed, error) {
 	// get feeds from a file
 	wd, _ := os.Getwd()
@@ -187,10 +260,6 @@ func getFeeds() ([]feed, error) {
 	err = nanomarkup.Unmarshal(data, &feeds, nil)
 	if err != nil {
 		return nil, err
-	}
-	// update path to files
-	for _, it := range feeds {
-		it.File = fmt.Sprintf("%s/%s", wd, it.File)
 	}
 	return feeds, nil
 }

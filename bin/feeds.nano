@@ -2,254 +2,217 @@
     // 1 Загальні положення
     {             
 	    Link https://www.cantabria.es/o/BOC/feed/6802081
-        File data/6802081.nam
         Topic cantabria
         Active false
     }
 	// 2.1 Повноваження та персонал: призначення, звільнення та інші ситуації
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802084
-        File data/6802084.nam
         Topic cantabria
         Active false
     }
 	// 2.2 Влада та персонал: курси, протистояння та змагання
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802085
-        File data/6802085.nam
         Topic cantabria
         Active false
     }
 	// 2.3 Повноваження та персонал: інші
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802086
-        File data/6802086.nam
         Topic cantabria
         Active false
     }
 	// 3 Адміністративний договір
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802087
-        File data/6802087.nam
         Topic cantabria
         Active false
     }
 	// 4.1 Економіка та фінанси: дії в бюджетних питаннях
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802089
-        File data/6802089.nam
         Topic cantabria
         Active false
     }
 	// 4.2 Економіка та фінанси: дії у фіскальних справах
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802090
-        File data/6802090.nam
         Topic cantabria
         Active false
     }
 	// 4.3 Економіка та фінанси: дії щодо соціального забезпечення
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802091
-        File data/6802091.nam
         Topic cantabria
         Active false
     }
 	// 4.4 Економіка та фінанси: інше
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802092
-        File data/6802092.nam
         Topic cantabria
         Active false
     }
 	// 5 Примусове відчуження
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802094
-        File data/6802094.nam
         Topic cantabria
         Active false
     }
 	// 6 Субсидії та допомоги
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802095
-        File data/6802095.nam
         Topic cantabria
         Active false
     }
 	// 7.1 Інші оголошення: Містобудування
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802097
-        File data/6802097.nam
         Topic cantabria
         Active false
     }
 	// 7.2 Інші оголошення: навколишнє середовище та енергетика
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802098
-        File data/6802098.nam
         Topic cantabria
         Active false
     }
 	// 7.3 Інші оголошення: статути та колективні договори
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802099
-        File data/6802099.nam
         Topic cantabria
         Active false
     }
 	// 7.4 Інші оголошення: фізичні особи
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802100
-        File data/6802100.nam
         Topic cantabria
         Active false
     }
 	// 7.5 Інші оголошення: різні
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802301
-        File data/6802301.nam
         Topic cantabria
         Active false
     }
 	// 8.1 Судові процедури: Аукціони
     {
 	    Link https://www.cantabria.es/o/BOC/feed/7479572
-        File data/7479572.nam
         Topic cantabria
         Active false
     }
 	// 8.2 Судові процедури: інші оголошення
     {
 	    Link https://www.cantabria.es/o/BOC/feed/6802303
-        File data/6802303.nam
         Topic cantabria
         Active false
     }
 	// 9 Вибори
     {
 	    Link https://www.cantabria.es/o/BOC/feed/7293890
-        File data/7293890.nam
         Topic cantabria
         Active false
     }
 	// Міністерство президента, юстиції, безпеки та адміністративного спрощення
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27148/size20
-        File data/27148.nam
         Topic cantabria
         Active true
     }
 	// Міністерство розвитку, територіального планування та екології
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27147/size20
-        File data/27147.nam
         Topic cantabria
         Active true
     }
 	// Міністерство економіки, фінансів та європейських фондів
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27141/size20
-        File data/27141.nam
         Topic cantabria
         Active true
     }
 	// Міністерство освіти, професійної підготовки та університетів
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27139/size20
-        File data/27139.nam
         Topic cantabria
         Active true
     }
 	// Міністерство культури, туризму та спорту
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27146/size20
-        File data/27146.nam
         Topic cantabria
         Active true
     }
 	// Міністерство сільського розвитку, тваринництва, рибальства та продовольства
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27140/size20
-        File data/27140.nam
         Topic cantabria
         Active true
     }
 	// Міністерство промисловості, зайнятості, інновацій та торгівлі
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27145/size20
-        File data/27145.nam
         Topic cantabria
         Active true
     }
 	// Консультації щодо здоров'я
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/27149/size20
-        File data/27149.nam
         Topic cantabria
         Active true
     }
 	// Департамент соціального залучення, молоді, сім'ї та рівноправності
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/7720252/size20
-        File data/7720252.nam
         Topic cantabria
         Active true
     }
 	// Остання допомога та субсидії
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008203/size50
-        File data/4008203.nam
         Topic cantabria
         Active true
     }
 	// Останні стипендії
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008202/size50
-        File data/4008202.nam
         Topic cantabria
         Active true
     }
 	// Останні нагороди
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008221/size50
-        File data/4008221.nam
         Topic cantabria
         Active true
     }
 	// Останні процедури
     {
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16401/eid4008246/size50
-        File data/4008246.nam
         Topic cantabria
         Active true
     }
 	// Останні прес-релізи
-	// Disabled because it duplicates 27139.nam
-    {
+	{
 	    Link https://www.cantabria.es/o/GOBIERNO/feed/group16413/eid4008216/size50
-        File data/4008216.nam
         Topic cantabria
-        Active false
+        Active true
     }
 	// Новини пропозиції про державну роботу
     {
 	    Link https://empleopublico.cantabria.es/o/GOBIERNO/feed/group16475/inscom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_6Cx0YFAD8ZVK/size50
-        File data/6Cx0YFAD8ZVK.nam
         Topic job
         Active true
     }
 	// Подорож Світ
     {
 	    Link https://www.goworldtravel.com/feed/
-        File data/goworldtravel.nam
         Topic travel
         Active false
     }
 	// Подорож Іспанія
     {
 	    Link https://spainguides.com/feed/
-        File data/spainguides.nam
         Topic travel
-        Active false
+        Active true
     }
 ]

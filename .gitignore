@@ -1,3 +1,5 @@
 /.vscode
 __debug*
-friend
+/friend
+/bin/friend
+/bin/feeds.db
