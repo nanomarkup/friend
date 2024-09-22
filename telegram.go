@@ -15,11 +15,7 @@ import (
 )
 
 func (v *telegram) send(threadId int, item *gofeed.Item, lang string) error {
-	cats := item.Custom["categorias"]
-	if len(item.Categories) > 0 {
-		cats = item.Categories[0]
-	}
-	mes, err := v.getMessage(item.Title, cats, item.Link, lang)
+	mes, err := v.getMessage(item, lang)
 	if err != nil {
 		return err
 	}
@@ -47,12 +43,19 @@ func (v *telegram) send(threadId int, item *gofeed.Item, lang string) error {
 	}
 }
 
-func (v *telegram) getMessage(title string, cats string, link string, lang string) (string, error) {
-	website, err := v.isWebsite(link)
+func (v *telegram) getMessage(item *gofeed.Item, lang string) (string, error) {
+	website, err := v.isWebsite(item.Link)
 	if err != nil {
 		return "", err
 	}
-	mes := title + "</a>\n\n"
+	mes := fmt.Sprintf("%s</a>\n\n", item.Title)
+	if item.Description != "" {
+		mes = fmt.Sprintf("%s%s\n\n", mes, item.Description)
+	}
+	cats := item.Custom["categorias"]
+	if len(item.Categories) > 0 {
+		cats = item.Categories[0]
+	}
 	if cats != "" {
 		items := strings.Split(cats, "|")
 		if len(items) > 1 {
@@ -72,12 +75,12 @@ func (v *telegram) getMessage(title string, cats string, link string, lang strin
 			return "", err
 		}
 		if website {
-			mes = fmt.Sprintf("<a href=\"%s\">%s</a>\n\n<a href=\"http://translate.google.com/translate?sl=es&tl=uk&u=%s&client=webapp/\">%s", link, title, link, mes)
+			mes = fmt.Sprintf("<a href=\"%s\">%s</a>\n\n<a href=\"http://translate.google.com/translate?sl=es&tl=uk&u=%s&client=webapp/\">%s", item.Link, item.Title, item.Link, mes)
 		} else {
-			mes = fmt.Sprintf("<a href=\"%s\">%s\n\n%s", link, title, mes)
+			mes = fmt.Sprintf("<a href=\"%s\">%s\n\n%s", item.Link, item.Title, mes)
 		}
 	} else {
-		mes = fmt.Sprintf("<a href=\"%s\">%s", link, mes)
+		mes = fmt.Sprintf("<a href=\"%s\">%s", item.Link, mes)
 	}
 	return mes, nil
 }
