@@ -14,7 +14,10 @@ import (
 func (v *app) getFeeds() ([]feed, error) {
 	// get feeds from a file
 	wd, _ := os.Getwd()
-	filePath := fmt.Sprintf("%s/%s", wd, v.feedsFileName)
+	filePath := v.feedsFileName
+	if wd != "" {
+		filePath = fmt.Sprintf("%s/%s", wd, v.feedsFileName)
+	}
 	if _, err := os.Stat(filePath); os.IsNotExist(err) {
 		return nil, fmt.Errorf("\"%s\" does not exist", filePath)
 	}
