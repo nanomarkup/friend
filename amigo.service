@@ -1,0 +1,15 @@
+[Unit]
+Description=Amigo bot for sending messages to a messanger
+After=network.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+Restart=always
+RestartSec=3
+ExecStart=/root/friend/bin/friend
+WorkingDir=/root/friend/bin
+
+[Install]
+WantedBy=multi-user.target
