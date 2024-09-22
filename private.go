@@ -13,9 +13,10 @@ type app struct {
 }
 
 type feed struct {
-	Link   string
-	Topic  string
-	Active bool
+	Link     string
+	Topic    string
+	Language string
+	Active   bool
 }
 
 type telegram struct {

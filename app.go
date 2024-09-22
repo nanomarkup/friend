@@ -121,7 +121,7 @@ func (v *app) processFeeds(telegramToken string, telegramChat string) error {
 							time.Sleep(interval - diff)
 						}
 						// send a new message
-						err = sender.send(v.buckets[f.Topic], it)
+						err = sender.send(v.buckets[f.Topic], it, f.Language)
 						lastExecuted = currentTime
 						if err == nil {
 							return b.Put([]byte(it.Link), []byte(time.Now().Format(time.RFC3339)))

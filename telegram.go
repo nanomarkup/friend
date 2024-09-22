@@ -14,12 +14,12 @@ import (
 	"github.com/mmcdole/gofeed"
 )
 
-func (v *telegram) send(threadId int, item *gofeed.Item) error {
+func (v *telegram) send(threadId int, item *gofeed.Item, lang string) error {
 	cats := item.Custom["categorias"]
 	if len(item.Categories) > 0 {
 		cats = item.Categories[0]
 	}
-	mes, err := v.getMessage(item.Title, cats, item.Link)
+	mes, err := v.getMessage(item.Title, cats, item.Link, lang)
 	if err != nil {
 		return err
 	}
@@ -47,7 +47,7 @@ func (v *telegram) send(threadId int, item *gofeed.Item) error {
 	}
 }
 
-func (v *telegram) getMessage(title string, cats string, link string) (string, error) {
+func (v *telegram) getMessage(title string, cats string, link string, lang string) (string, error) {
 	website, err := v.isWebsite(link)
 	if err != nil {
 		return "", err
@@ -61,16 +61,23 @@ func (v *telegram) getMessage(title string, cats string, link string) (string, e
 				cats += " | " + items[1]
 			}
 		}
-		mes += fmt.Sprintf("Categorias: %s\n\n", cats)
+		mes += fmt.Sprintf("Категорія: %s\n\n", cats)
 	}
-	mes, err = v.translateMessage(mes, "es", "uk")
-	if err != nil {
-		return "", err
-	}
-	if website {
-		mes = fmt.Sprintf("<a href=\"%s\">%s</a>\n\n<a href=\"http://translate.google.com/translate?sl=es&tl=uk&u=%s&client=webapp/\">%s", link, title, link, mes)
+	if lang != "uk" {
+		if lang == "" {
+			lang = "es"
+		}
+		mes, err = v.translateMessage(mes, lang, "uk")
+		if err != nil {
+			return "", err
+		}
+		if website {
+			mes = fmt.Sprintf("<a href=\"%s\">%s</a>\n\n<a href=\"http://translate.google.com/translate?sl=es&tl=uk&u=%s&client=webapp/\">%s", link, title, link, mes)
+		} else {
+			mes = fmt.Sprintf("<a href=\"%s\">%s\n\n%s", link, title, mes)
+		}
 	} else {
-		mes = fmt.Sprintf("<a href=\"%s\">%s\n\n%s", link, title, mes)
+		mes = fmt.Sprintf("<a href=\"%s\">%s", link, mes)
 	}
 	return mes, nil
 }
