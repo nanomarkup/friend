@@ -15,7 +15,7 @@ func (v *app) getFeeds() ([]feed, error) {
 	// get feeds from a file
 	wd, _ := os.Getwd()
 	filePath := v.feedsFileName
-	if wd != "" {
+	if wd != "/" {
 		filePath = fmt.Sprintf("%s/%s", wd, v.feedsFileName)
 	}
 	if _, err := os.Stat(filePath); os.IsNotExist(err) {
