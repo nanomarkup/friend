@@ -13,7 +13,10 @@ import (
 
 func (v *app) getFeeds() ([]feed, error) {
 	// get feeds from a file
-	wd, _ := os.Getwd()
+	wd, err := os.Getwd()
+	if err != nil {
+		return nil, err
+	}
 	filePath := v.feedsFileName
 	if wd != "/" {
 		filePath = fmt.Sprintf("%s/%s", wd, v.feedsFileName)

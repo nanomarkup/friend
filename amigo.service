@@ -9,7 +9,7 @@ Group=root
 Restart=always
 RestartSec=3
 ExecStart=/root/friend/bin/friend
-WorkingDir=/root/friend/bin
+WorkingDirectory=/root/friend/bin/
 
 [Install]
 WantedBy=multi-user.target
