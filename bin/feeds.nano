@@ -215,4 +215,22 @@
         Topic travel
         Active true
     }
+    // Галісія
+    {
+	    Link https://www.lavozdegalicia.es/galicia/index.xml
+        Topic galicia
+        Active true
+    }
+    // Ла Ріоя
+    {
+	    https://www.larioja.com/rss/2.0/portada/
+        Topic larioja
+        Active true
+    }
+    // Україна
+    {
+	    https://www.pravda.com.ua/rss/view_news/
+        Topic ukraine
+        Active true
+    }
 ]

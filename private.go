@@ -45,15 +45,15 @@ var buckets = map[string]int{
 	"travel":      11,
 	"events":      12,
 	"galicia":     13,
-	"asturia":     14,
-	"baskov":      16,
-	"lariola":     17,
-	"navara":      18,
+	"asturias":    14,
+	"basque":      16,
+	"larioja":     17,
+	"navarra":     18,
 	"leon":        19,
 	"children":    55,
 	"spam":        57,
 	"sport":       73,
-	"war":         301,
+	"ukraine":     301,
 }
 
 func main() {
