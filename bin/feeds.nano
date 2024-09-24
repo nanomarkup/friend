@@ -225,13 +225,13 @@
     {
 	    Link https://www.larioja.com/rss/2.0/portada/
         Topic larioja
-        Active true
+        Active false
     }
     // Україна
     {
 	    Link https://www.pravda.com.ua/rss/view_news/
         Topic ukraine
         Language uk
-        Active true
+        Active false
     }
 ]
